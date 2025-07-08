@@ -1,0 +1,47 @@
+
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .pregunta {
+      margin-bottom: 35px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 15px;
+    }
+    .pregunta > p {
+    font-weight: bold;
+    }
+    .opcion {
+      display: block;
+      margin: 8px 0;
+    }
+    .correcta {
+      background-color: #c8f7c5;
+    }
+    .incorrecta {
+      background-color: #f7c5c5;
+    }
+    .resultado {
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 24px;         /* ⬅️ tamaño del texto */
+    color: #333;
+    text-align: center;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      margin: 10px 0;
+    }
+    button {
+      margin: 15px 10px 0 0;
+      padding: 8px 16px;
+    }
+    #timer {
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+  

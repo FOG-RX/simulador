@@ -1,0 +1,2956 @@
+[
+  {
+    "originalIndex": 1,
+    "question": "De las siguientes afirmaciones, ¿Cuál es falsa?\n",
+    "options": [
+      "Está prohibido consumir alcohol en el interior de vehículos motorizados.",
+      "Está prohibido conducir un vehículo encontrándose en condiciones físicas o síquicas deficientes.",
+      "Se entiende que una persona se encuentra en estado de ebriedad cuando presenta una concentración igual o superior a 1.0 gramos por mil de alcohol en la sangre.",
+      "La conducción en estado de ebriedad sólo se sanciona con una multa elevada."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 2,
+    "question": "Se entiende que un conductor está bajo la influencia del alcohol cuando éste presenta una concentración:\n",
+    "options": [
+      "Mayor a 0,1 e inferior a 0,5 gramos por mil de alcohol en la sangre.",
+      "Mayor a 0,5 e inferior a 1,0 gramos por mil de alcohol en la sangre.",
+      "Inferior a 0,3 gramos por mil de alcohol en la sangre.",
+      "Mayor a 1,0 e inferior a 1,5 gramos por mil de alcohol en la sangre."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 3,
+    "question": "La conducción bajo los efectos del alcohol sin ocasionar lesiones ni daño alguno es sancionada:\n",
+    "options": [
+      "Con multa de 1 a 5 UTM y suspensión por un mes de la licencia de conducir.",
+      "Sólo con multa de 3 UTM.",
+      "Sólo con multa de 1 a 5 UTM.",
+      "Con multa de 1 a 5 UTM y suspensión por 90 días de la licencia de conducir."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 4,
+    "question": "Causar la muerte de una persona a consecuencia de conducir en estado de ebriedad se sanciona con:\n",
+    "options": [
+      "Una multa",
+      "La suspensión de licencia por un período de entre 2 y 4 años.",
+      "Una pena de presidio que puede llegar a los 5 años.",
+      "Todas las anteriores"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 5,
+    "question": "Si usted es sorprendido conduciendo bajo los efectos de sustancias sicotrópicas, podrá eximirse de responsabilidad:\n",
+    "options": [
+      "Si acredita que el fármaco fue ingerido 6 horas antes de conducir.",
+      "Si el fármaco fue recetado por un médico.",
+      "Si el porcentaje de la sustancia en su sangre es inferior al máximo permitido por la ley.",
+      "En ningún caso."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 6,
+    "question": "Suponga que usted acaba de participar en un accidente de tránsito en el que se han producido daños y que producto del desconcierto escapa rápidamente del lugar. Lo anterior significará que:\n",
+    "options": [
+      "Se presumirá que usted ha sido el culpable del accidente.",
+      "Se presumirá que usted no tuvo responsabilidad alguna.",
+      "A usted se le aplicará sólo una infracción a la Ley de Tránsito.",
+      "Usted podrá olvidarse del hecho porque con seguridad no pasará nada más."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 7,
+    "question": "Usted se ve involucrado en un accidente en que una persona ha resultado con lesiones leves, ¿debe usted informar el hecho a Carabineros?\n",
+    "options": [
+      "Sí, debe dar cuenta del hecho a la policía dentro de los próximos 20 días.",
+      "No, el pasajero lesionado debe decidir si se informa a la policía o no.",
+      "No, los accidentes en que sólo resultan lesionados leves no se informan a la policía.",
+      "Sí, debe dar cuenta del hecho a la autoridad policial más inmediata a la brevedad."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 8,
+    "question": "La sanción por participar en un accidente de tránsito en el que han resultado daños y huir del lugar es:\n",
+    "options": [
+      "Sólo una multa de 3 a 7 UTM.",
+      "Solo una multa de 1 a 3 UTM.",
+      "Una multa de 1 a 3 UTM y suspensión de la licencia de conductor por 1 mes.",
+      "Una multa de 3 a 7 UTM y suspensión de la licencia de conductor hasta por 1 mes."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 9,
+    "question": "La suspensión de la licencia de conductor por participar en un accidente en el que han resultado personas lesionadas y huir del lugar, puede ser por un plazo de hasta:\n",
+    "options": [
+      "Un año.",
+      "180 días",
+      "90 días",
+      "Un mes."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 10,
+    "question": "Usted llega a una intersección regulada por semáforo que se encuentra en rojo y, al mismo tiempo, un carabinero le indica que avance, ¿Qué debe hacer usted?\n",
+    "options": [
+      "Detenerse, porque la luz roja se lo está indicando.",
+      "Avanzar, porque las instrucciones de un Carabinero prevalecen sobre las señales del tránsito.",
+      "Avanzar, sólo si detrás suyo no vienen otros vehículos.",
+      "Avanzar, sólo si está seguro que la luz roja está próxima a cambiar."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 11,
+    "question": "¿En qué situación puede usted usar la bocina de su vehículo?\n",
+    "options": [
+      "Cuando quiere apurar a peatones que van cruzando.",
+      "Cuando saluda a otros usuarios de la vía.",
+      "Cuando trata de prevenir a otros acerca de un peligro.",
+      "Cuando desea manifestar su disgusto."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 12,
+    "question": "¿En qué situación puede usted hacer sonar la bocina de su vehículo?\n",
+    "options": [
+      "Para llamar la atención de un amigo.",
+      "Para que le cedan el paso.",
+      "Para apurar a un conductor que va más lento.",
+      "Para prevenir la ocurrencia de un accidente."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 13,
+    "question": "Usted se va acercando a un cruce con el semáforo en verde. ¿Cuándo no debe usted ingresar al cruce?\n",
+    "options": [
+      "Cuando hay peatones esperando para cruzar.",
+      "Cuando pasado el cruce su pista no esté lo suficientemente despejada.",
+      "Cuando usted cree que la luz amarilla está próxima a aparecer.",
+      "Cuando usted va a virar a la derecha."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 14,
+    "question": "Cuando dos vehículos van a cruzarse en una intersección urbana en la que no hay señalización alguna de prioridad, como norma general ¿Quién debe ceder el paso?\n",
+    "options": [
+      "El vehículo más pequeño.",
+      "El vehículo que va por la calle de pistas más angostas.",
+      "El que se acerca al cruce por la derecha del otro.",
+      "El que se acerca al cruce por la izquierda del otro."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 15,
+    "question": "El conductor del vehículo que se observa en la fotografía se quiere incorporar a la vía desde un camino de tierra. ¿Qué obligación tiene Ud. con respecto a él?\n",
+    "options": [
+      "Ninguna, porque es el conductor de dicho vehículo quien tiene que ceder el paso.",
+      "Facilitarle, en la medida de lo posible, su incorporación.",
+      "Cederle el paso porque se incorpora desde la derecha.",
+      "Cederle el paso porque se incorpora desde un camino de tierra."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 16,
+    "question": "¿Frente a cuál de las siguientes señales debe Ud. detenerse siempre antes de virar a la izquierda?\n",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 17,
+    "question": "Al estacionar Ud. detrás de otro vehículo, ¿a qué distancia de él debe hacerlo?\n",
+    "options": [
+      "A lo menos, a unos 20 centímetros.",
+      "A lo menos, a unos 30 centímetros.",
+      "A lo menos, a unos 50 centímetros.",
+      "A lo menos, a unos 60 centímetros."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 18,
+    "question": "Ningún vehículo puede ser conducido marcha atrás, a menos que:\n",
+    "options": [
+      "La maniobra sea indispensable para mantener la libre circulación fuera de un cruce.",
+      "Sea necesario para estacionar.",
+      "En un cruce se haya traspasado la línea de detención y haya indicación expresa de un Carabinero.",
+      "Todas las anteriores."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 19,
+    "question": "Al estacionar en forma paralela a la cuneta, ¿a qué distancia de ésta debe hacerlo?\n",
+    "options": [
+      "A menos de 30 centímetros.",
+      "A 30 centímetros, como mínimo.",
+      "A menos de 50 centímetros.",
+      "A menos de 40 centímetros."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 20,
+    "question": "¿Está permitido estacionar en la berma de una carretera de 2 pistas de circulación por sentido de tránsito?\n",
+    "options": [
+      "Sí, si la berma es ancha.",
+      "Sí, pero asegurándose de que el vehículo quede con toda su estructura sobre la berma.",
+      "Sí, pero encendiendo las luces intermitentes.",
+      "No, no está permitido."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 21,
+    "question": "La figura muestra una calzada bidireccional. ¿Es correcto el adelantamiento?\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 22,
+    "question": "La figura muestra una calzada bidireccional. ¿Es correcto el adelantamiento?\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 23,
+    "question": "¿Adelantaría Ud. al auto que va delante suyo?\n",
+    "options": [
+      "Sí, si no viene algún vehículo en contra.",
+      "Sí, porque la demarcación lo permite.",
+      "Sí, siempre que vaya muy lento.",
+      "No."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 24,
+    "question": "De noche, Ud. va con sus luces altas por una carretera de calzada de doble tránsito, ¿Cuándo debe bajar las luces?\n\nI. Cuando se aproxima por atrás a otro vehículo.\nII. Cuando se encuentra con peatones que avanzan en el mismo sentido suyo.\nIII. Cuando viene tráfico en contra.\nIV. Cuando se encuentre con peatones que vienen en contra.\n",
+    "options": [
+      "I y II",
+      "Sólo III",
+      "I y III",
+      "I, II, III, y IV"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 25,
+    "question": "De noche Ud. va conduciendo con luces altas. Al ser adelantado por otro vehículo, ¿en qué momento debe Ud. poner sus luces bajas?\n",
+    "options": [
+      "En ningún momento.",
+      "Cuando ve que el otro vehículo se le acerca.",
+      "Tan pronto como es adelantado por el otro.",
+      "Cuando el otro vehículo comienza a señalizar."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 26,
+    "question": "Como se observa en la fotografía, en una calzada de 3 pistas ningún vehículo va cerca suyo, ¿va Ud. por la pista correcta?\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 27,
+    "question": "Sólo los vehículos de emergencia pueden utilizar en servicio de carácter urgente, dispositivos de sonido especial adecuado a sus funciones. De los siguientes vehículos, ¿cuáles no pueden usar tales dispositivos?\n",
+    "options": [
+      "Los vehículos policiales.",
+      "Los carros bomba.",
+      "Los camiones recolectores de basura.",
+      "Las ambulancias."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 28,
+    "question": "¿Qué luces no se deben usar en caso alguno cuando el vehículo está en movimiento?\n",
+    "options": [
+      "Las luces de estacionamiento.",
+      "Las luces de freno.",
+      "Las luces destellantes de viraje.",
+      "Las luces de trocha."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 29,
+    "question": "¿En qué vehículos es obligatorio portar un botiquín con elementos de primeros auxilios?\n",
+    "options": [
+      "En todos los vehículos motorizados, con excepción de los de 2 ó 3 ruedas.",
+      "Sólo en buses y vehículos de transporte escolar.",
+      "Sólo en vehículos de locomoción colectiva y de carga.",
+      "En vehículos de locomoción colectiva, de carga y de transporte escolar."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 30,
+    "question": "¿En qué vehículos es obligatorio portar 2 cuñas de seguridad?\n",
+    "options": [
+      "Sólo en los buses y camiones.",
+      "En los vehículos de emergencia.",
+      "En los vehículos de locomoción colectiva, de carga y de transporte de escolares.",
+      "Sólo en camiones que transportan cargas peligrosas."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 31,
+    "question": "La Ley de Tránsito establece límites de velocidad máxima según el tipo de vía y tipo de vehículo. Tratándose de zonas urbanas, y no habiendo señales de tránsito que impongan otros límites, ¿Cuál de las siguientes afirmaciones es falsa?\n",
+    "options": [
+      "Los automóviles deben circular a no más de 60 km/h",
+      "Los vehículos de transporte de escolares deben circular a no más de 50 km/h.",
+      "Los buses y camiones deben circular a no más de 60 km/h.",
+      "Las motocicletas deben circular a no más de 60 km/h."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 32,
+    "question": "La Ley de Tránsito establece límites de velocidad máxima según las características de la vía y el tipo de vehículo. Tratándose de una calzada de 2 pistas por sentido de circulación en una zona rural, y no habiendo señales de tránsito que impongan otros límites, ¿Cuál de las siguientes afirmaciones es falsa?\n",
+    "options": [
+      "Los automóviles no pueden exceder los 120 km/h.",
+      "Los buses distintos de los interurbanos no pueden exceder los 90 km/h.",
+      "Los camiones de más de 3.860 kg de peso bruto vehicular no pueden exceder los 90 km/h",
+      "Los buses interurbanos no pueden exceder los 110 km/h."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 33,
+    "question": "La Ley de Tránsito establece límites de velocidad máxima según las características de la vía y el tipo de vehículo. Tratándose de una calzada de una pista por sentido de circulación en una zona rural, y no habiendo señales de tránsito que impongan otros límites, ¿Cuál de los siguientes vehículos no puede exceder los 90 km/h?\n",
+    "options": [
+      "Los automóviles",
+      "Las camionetas",
+      "Los vehículos de transporte escolar",
+      "Los buses interurbanos"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 34,
+    "question": "¿Cuál de las siguientes afirmaciones es falsa tratándose del conductor de un bus o minibus de locomoción colectiva? (Clases A-2 y A-3)\n",
+    "options": [
+      "No le está permitido fumar en el interior del bus.",
+      "No debe permitir que alguien ejerza la mendicidad dentro del vehículo.",
+      "No puede permitir la subida de animales, aun cuando se trate de un perro de asistencia que acompañe a una persona con discapacidad.",
+      "Siempre que el vehículo esté en movimiento debe mantener sus puertas cerradas."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 35,
+    "question": "¿Cuál de las siguientes afirmaciones es falsa tratándose del conductor de un bus o minibus de locomoción colectiva? (Clases A-2 y A-3)\n",
+    "options": [
+      "No debe proveer al vehículo de combustible con pasajeros en su interior.",
+      "No debe permitir que se ejerza el comercio al interior del vehículo.",
+      "Puede fumar en el interior del vehículo si ningún pasajero se opone a ello.",
+      "No debe llevar pasajeros en las pisaderas con las puertas del vehículo cerradas cuando éste se encuentre en movimiento."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 36,
+    "question": "Suponga que usted se aproxima a una parada en la que hay personas que manifiestan su interés por subir al bus o minibus, ¿qué debe hacer usted? (Clases A-2 y A-3)\n",
+    "options": [
+      "Detenerse en la parada, a menos que se trate sólo de estudiantes.",
+      "Detenerse en la parada, junto a la acera para posibilitar la subida.",
+      "Detenerse en la parada, a menos que vaya muy atrasado y necesite recuperar tiempo.",
+      "Detenerse en la parada, siempre que ello no signifique que poco más adelante tenga que detenerse ante una luz roja."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 37,
+    "question": "En general, los vehículos requieren de un Permiso de Circulación el que debe ser pagado anualmente a una municipalidad. Sin embargo, hay algunas excepciones. De los siguientes vehículos, ¿Cuáles están exentos de dicho pago?\n",
+    "options": [
+      "Las ambulancias",
+      "Las carrozas fúnebres",
+      "Los pertenecientes a los Cuerpos de Bomberos",
+      "Los automóviles antiguos o de colección."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 38,
+    "question": "La prestación de un servicio de transporte escolar sin que éste se encuentre inscrito en el Registro Nacional de Servicios de Transporte Remunerado de Escolares constituye una infracción a la Ley de Tránsito: (Clase A-3, transporte escolar)\n",
+    "options": [
+      "Gravísima",
+      "Grave",
+      "Menos grave",
+      "Leve"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 39,
+    "question": "Todo vehículo que transporte carga de terceros debe justificarla con la carta de porte a que se refiere el Código de Comercio. El no portar dicho documento es sancionado: (Clases A-4 y A-5)\n",
+    "options": [
+      "Con multa de 1 a 3 UTM, siendo responsable sólo el conductor.",
+      "Como una falta menos grave a las normas del tránsito.",
+      "Con multa de 3 a 10 UTM, quedando obligados solidariamente al pago el conductor, el porteador y el cargador.",
+      "Con multa de hasta 3 UTM, quedando obligados solidariamente al pago el conductor y el  porteador."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 40,
+    "question": "Conducir un camión con remolque, ambos de propiedad de otra persona, sin portar el certificado de inscripción del remolque en el Registro Especial de Remolques y Semirremolques constituye una infracción a la Ley de Tránsito que se sanciona con: (Clase A-5)\n",
+    "options": [
+      "Multa equivalente a una infracción leve",
+      "Multa de hasta una UTM",
+      "Multa de una a dos UTM",
+      "Multa de una UF"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 41,
+    "question": "Conducir un camión con remolque, ambos de su propiedad, sin portar el certificado de inscripción del remolque en el Registro Especial de Remolques y Semirremolques constituye una infracción a la Ley de Tránsito que se sanciona con: (Clase A-5)\n",
+    "options": [
+      "Multa equivalente a una infracción menos grave",
+      "Multa de una a ocho UTM",
+      "Multa a una a dos UTM",
+      "Multa de una UF"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 42,
+    "question": "Suponga que conduce un bus de locomoción colectiva que no cuenta con Revisión Técnica vigente y del cual usted no es el dueño. En estas circunstancias, usted: (Clases A-2 y A-3)\n",
+    "options": [
+      "No puede ser sancionado, ya que no es el propietario del vehículo.",
+      "Se arriesga a ser sancionado por una infracción grave a la Ley de Tránsito y su licencia puede ser suspendida.",
+      "Se arriesga a ser sancionado por una infracción leve a las normas de la Ley de Tránsito.",
+      "Sólo puede ser amonestado verbalmente por Carabineros."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 43,
+    "question": "Usted conduce un vehículo de carga ajeno que no cuenta con Revisión Técnica vigente. En estas circunstancias, usted: (Clases A-4 y A-5)\n",
+    "options": [
+      "No puede ser sancionado por infracción alguna.",
+      "Sólo puede ser amonestado verbalmente por Carabineros",
+      "Se arriesga a ser sancionado por una infracción grave a la Ley de Tránsito y su licencia puede ser suspendida.",
+      "Se arriesga a ser sancionado por una infracción leve a las normas de la Ley de Tránsito."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 44,
+    "question": "Toda licencia de conductor profesional habilita a su titular para conducir, además de los vehículos propios de la clase de que se trate, los siguientes:\n",
+    "options": [
+      "Automóviles y motocicletas",
+      "Automóviles y vehículos de carga de peso bruto vehicular de hasta 3.500 kg",
+      "Automóviles, motocicletas y tractores",
+      "Automóviles, motocicletas y vehículos de carga de peso bruto vehicular de hasta 3.500 kg"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 45,
+    "question": "Usted es titular de una licencia A-4, ¿le habilita ésta para conducir un bus? (Clases A-4 y A-5)\n",
+    "options": [
+      "Sí, siempre",
+      "Sí, pero solo en caso de buses de peso bruto vehicular de entre 3.860 y 5.000 kg.",
+      "No, pero si lo hace se arriesga sólo a una infracción menos grave.",
+      "No, y si lo hace se arriesga a una pena de presidio menor."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 46,
+    "question": "Usted es titular de una licencia A-2, ¿le habilita ésta para conducir un bus con más de 20 asientos? (Clases A-2 y A-3)\n",
+    "options": [
+      "No",
+      "Sí, siempre.",
+      "Sí, pero sólo dentro de una ciudad.",
+      "Sí, pero solo transportando pasajeros sentados."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 47,
+    "question": "Como norma general, ¿cada cuánto tiempo debe acreditar el titular de una licencia profesional su idoneidad moral, física y síquica?\n",
+    "options": [
+      "Cada 2 años",
+      "Cada 3 años",
+      "Cada 4 años",
+      "Cada 6 años"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 48,
+    "question": "¿A quién o quiénes cubre el Seguro Obligatorio de Accidentes Personales?\n",
+    "options": [
+      "Sólo al conductor del vehículo asegurado.",
+      "Sólo a los pasajeros del vehículo asegurado.",
+      "Sólo al conductor y pasajeros del vehículo asegurado.",
+      "Al conductor, a los pasajeros y a cualquier otra persona afectada en un accidente en que participe el vehículo asegurado."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 49,
+    "question": "En caso de muerte, ¿a cuánto asciende la indemnización del Seguro Obligatorio de Accidentes Personales?\n",
+    "options": [
+      "150 Unidades de Fomento",
+      "200 Unidades de Fomento",
+      "300 Unidades de Fomento",
+      "500 Unidades de Fomento"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 50,
+    "question": "En relación con el Seguro Obligatorio de Accidentes Personales, ¿deben los remolques, acoplados, casas rodantes y otros similares contar con dicho seguro cuando circulan por vías públicas?\n",
+    "options": [
+      "No",
+      "Sólo las casas rodantes lo requieren.",
+      "Sí, pero sólo cuando circulan por autopistas.",
+      "Sí, deben contar con un seguro obligatorio adicional."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 51,
+    "question": "En relación con el Seguro Obligatorio de Accidentes Personales, cuando no se ha contratado el seguro adicional de un remolque ¿Quién o quiénes responden por los daños que eventualmente  puedan causarse? (Clase A-5)\n",
+    "options": [
+      "Sólo el conductor",
+      "Sólo el propietario del remolque.",
+      "El propietario y el conductor del vehículo tractor responden solidariamente.",
+      "Sólo el propietario del vehículo tractor."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 52,
+    "question": "¿Con qué acredita Ud. que su vehículo está cubierto por el Seguro Obligatorio de Accidentes Personales y la correspondiente compañía aseguradora?\n",
+    "options": [
+      "Con el certificado de revisión técnica.",
+      "Con el permiso de circulación.",
+      "Con el certificado de póliza del seguro emitido por la aseguradora.",
+      "Con el certificado de inscripción en el Registro de Vehículos Motorizados."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 53,
+    "question": "En general los vehículos no deben exceder los pesos y dimensiones máximos establecidos. Sin embargo, excepcionalmente, un vehículo de carga puede circular con sobrepeso o excediendo tales dimensiones. Para ello requiere autorización de: (Clases A-4 y A-5)\n",
+    "options": [
+      "La Secretaría Regional Ministerial de Transportes y Telecomunicaciones",
+      "La Municipalidad",
+      "La Dirección de Vialidad",
+      "Carabineros"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 54,
+    "question": "De las siguientes infracciones a las normas del tránsito, ¿Cuál de ellas es una infracción gravísima que además de la aplicación de una multa es sancionada con la suspensión de la licencia de conductor?\n",
+    "options": [
+      "Adelantar en una curva.",
+      "Conducir un vehículo sin placa patente.",
+      "No respetar una luz roja o una señal “PARE”.",
+      "Desobedecer las órdenes de un Carabinero."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 55,
+    "question": "Corresponde la cancelación de la licencia de conducir del conductor responsable por 3 veces en los últimos 12 meses de conducir bajo la influencia del alcohol. ¿Es esta afirmación verdadera?.\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 56,
+    "question": "El Código del Trabajo establece que en ningún caso el chofer de locomoción colectiva interurbana o el de un vehículo de carga interurbana podrá manejar más de 5 horas continuas, después de las cuales deberá tener un descanso cuya duración mínima será de 2 horas. ¿Es esta afirmación verdadera?",
+    "options": [
+      "No",
+      "Sí"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 57,
+    "question": "Si al conducir en estado de ebriedad se ocasiona la muerte de una persona, el tribunal está facultado para decretar la suspensión de la licencia del conductor por un período de:\n",
+    "options": [
+      "3 a 6 meses",
+      "6 a 12 meses",
+      "12 a 24 meses",
+      "24 a 48 meses"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 58,
+    "question": "En el caso de reincidencia en la conducción en estado de ebriedad, o bajo la influencia de sustancias estupefacientes o sicotrópicas, el juez debe decretar la cancelación de la licencia del conductor infractor cuando estime que su conducción ofrece peligro para el tránsito o para la seguridad pública. ¿Es esta afirmación verdadera?\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 59,
+    "question": "Cuando una licencia de conductor es cancelada por reincidencia en la conducción en estado de ebriedad, el juez podrá alzar la medida cuando nuevos antecedentes permitan estimar fundadamente que el peligro para el tránsito o la seguridad pública que importaba la conducción del infractor ha desaparecido. En todo caso, para ello deberán transcurrir a lo menos:\n",
+    "options": [
+      "Un año",
+      "Dos años",
+      "Cuatro años",
+      "Seis años"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 60,
+    "question": "En un automóvil está prohibido que en los asientos delanteros viajen niños menores de: (Clase A1)\n",
+    "options": [
+      "8 años",
+      "10 años",
+      "12 años",
+      "No, no hay prohibiciones al respecto."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 61,
+    "question": "Suponga que usted conduce un taxi cuyo año de fabricación es 2002 o posterior, y que un pasajero que viaja en el asiento trasero no se ha abrochado el cinturón de seguridad. ¿Sobre quién recae la responsabilidad por no usar dicho elemento?. (Clase A-1)\n",
+    "options": [
+      "Siempre sobre el conductor del taxi.",
+      "Sobre el pasajero, a menos que el cinturón no funcione.",
+      "Siempre sobre el pasajero.",
+      "Nadie es responsable porque el uso del cinturón de seguridad es obligatorio sólo en los asientos delanteros."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 62,
+    "question": "Infringir las normas sobre uso obligatorio de cinturón de seguridad es:\n",
+    "options": [
+      "Una falta grave que se sanciona con multa de 1 a 1,5 UTM.",
+      "Una falta menos grave que se sanciona con multa de 0,5 a 1 UTM.",
+      "Una falta menos grave que se sanciona con multa de hasta 0,5 UTM",
+      "Sólo una falta leve."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 63,
+    "question": "Tratándose de un vehículo de transporte remunerado de escolares de peso bruto vehicular inferior a 3.860 kg, ¿Cuál de las siguientes exigencias no le es aplicable? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "Debe estar pintado de color amarillo.",
+      "Sus asientos deben estar dispuestos de manera que sus ocupantes viajen mirando hacia el frente.",
+      "Deben contar con aire acondicionado.",
+      "Deben contar con un extintor de incendio cuyo potencial de extinción sea 2A - 5B, C."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 64,
+    "question": "Tratándose de un vehículo de transporte remunerado de escolares de peso bruto vehicular superior a 3.860 kg, ¿cuál de las siguientes exigencias no le es aplicable? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "Debe tener una antigüedad menor a 10 años.",
+      "Sus asientos deben estar dispuestos de manera que sus ocupantes viajen mirando hacia el frente.",
+      "Debe contar con un extintor de incendio cuyo potencial de extinción sea 2A - 10B, C.",
+      "Debe estar cubierto por el Seguro Obligatorio de Accidentes Personales (SOAP)."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 65,
+    "question": "Tratándose de servicio de transporte remunerado de escolares dentro de una ciudad, el transporte desde la casa o domicilio de un niño y el colegio no puede tardar más de: (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "90 minutos",
+      "80 minutos",
+      "70 minutos",
+      "60 minutos"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 66,
+    "question": "Tratándose de un vehículo de transporte remunerado de escolares, ¿constituye el uso de cintas retrorreflectantes amarillas en sus costados y parte trasera una alternativa a la luz de seguridad estroboscópica? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 67,
+    "question": "¿Qué vehículos de transporte remunerado de escolares no requieren portar sobre el techo una luz de seguridad estroboscópica? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "Los que están pintados de color amarillo.",
+      "Los que cuentan con cintas retrorreflectantes rojas y blancas en sus costados y parte trasera.",
+      "Los que exhiben avisos publicitarios en sus costados.",
+      "Los de peso bruto total igual o superior a 3.860 kg."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 68,
+    "question": "¿Qué vehículos de transporte remunerado de escolares no requieren portar sobre el techo una luz de seguridad estroboscópica? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "Los que son de una antigüedad inferior a 5 años.",
+      "Los que cuentan con cintas retrorreflectantes de color amarillo bajo sus ventanas, en sus costados y parte trasera.",
+      "Los que prestan servicio sólo en ciudades muy pequeñas.",
+      "Todos los vehículos de transporte escolar, sin excepción, deben contar con la luz estroboscópica sobre el techo."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 69,
+    "question": "¿Qué información debe encontrarse siempre visible en el interior de un vehículo que presta servicio de transporte remunerado de escolares? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "La identificación del conductor y la dirección de la Seremitt correspondiente.",
+      "La patente única del vehículo y la identificación del propietario del vehículo.",
+      "La identificación del conductor y la capacidad del vehículo.",
+      "Sólo la cantidad máxima de niños que pueden ser transportados."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 70,
+    "question": "Tratándose de un servicio de transporte remunerado de escolares, ¿Qué debe entenderse por “escolares”? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "Sólo niños y niñas de primero y hasta octavo año de Enseñanza Básica.",
+      "Sólo niños y niñas de guarderías infantiles, de kindergarten y de Enseñanza Básica de hasta 14 años de edad.",
+      "Niños y niñas de guarderías infantiles, de parvularios o de hasta cuarto año de Enseñanza Media.",
+      "Niños y niñas de Enseñanza Básica y Media, y jóvenes de Educación Superior."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 71,
+    "question": "En qué circunstancia puede usted transportar una cantidad de niños superior a la señalada en el Certificado de Revisión Técnica de su vehículo? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "Cuando una mamá le solicita un favor especial.",
+      "Cuando está lloviendo y hace frío.",
+      "Cuando se trata de un viaje muy corto.",
+      "Nunca."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 72,
+    "question": "¿Cuándo es necesario que el conductor sea acompañado por un adulto que cuide a los menores? (Clase A-3, Transporte de Escolares)\n",
+    "options": [
+      "Cuando transporta a lo menos un niño o niña de nivel prebásico.",
+      "Cuando transporta más de 5 niños o niñas de nivel prebásico.",
+      "Cuando el tiempo que algunos niños o niñas permanecen en el vehículo es excesivo.",
+      "Nunca."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 73,
+    "question": "¿Cuál es el ancho exterior máximo que puede tener un vehículo, incluida la carga y sin considerar sus espejos retrovisores ni los soportes de éstos? (Clases A-4 y A-5)\n",
+    "options": [
+      "2,60 m",
+      "2,50 m",
+      "2,70 m",
+      "2,80 m"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 74,
+    "question": "¿Cuál es el alto máximo, con o sin carga, de un vehículo que transporta automóviles? (Clase A-5)\n",
+    "options": [
+      "4,20 metros",
+      "4,30 metros",
+      "4,50 metros",
+      "4,60 metros"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 75,
+    "question": "¿Cuál es el alto máximo que puede tener un vehículo, con o sin carga, sin considerar a aquellos que transportan automóviles? (Clases A-4 y A-5)\n",
+    "options": [
+      "4,00 metros",
+      "4,10 metros",
+      "4,20 metros",
+      "4,30 metros"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 76,
+    "question": "¿Qué estudiantes tienen derecho a utilizar los servicios públicos de locomoción colectiva en forma\ngratuita sin exhibir el Pase Escolar? (Clases A-2 y A-3)\n",
+    "options": [
+      "Los que cursan de 1º a 4º año de Educación Básica.",
+      "Sólo los que cursan de 1º a 6º año de Educación Básica en establecimientos municipales.",
+      "Los que cursan hasta 8º año de Enseñanza Básica.",
+      "Los que tienen hasta 7 años de edad."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 77,
+    "question": "¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)? (Clases A-2 y A-3)\n\nI. El Pase Escolar puede ser utilizado el día domingo sólo por estudiantes de Escuelas Agrícolas\nII. El Pase Escolar rige de lunes a domingo las 24 horas del día durante todo el año escolar\nIII. El Pase Escolar puede ser usado en meses de verano, por alumnos de educación técnico profesional que realizan práctica profesional.\n",
+    "options": [
+      "Sólo I",
+      "Sólo III",
+      "II y III",
+      "I y III"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 78,
+    "question": "¿Está permitido el uso de neumáticos redibujados en los servicios de locomoción colectiva y de taxis? (Clases A-1, A-2 y A-3)\n",
+    "options": [
+      "Sí",
+      "Sí, pero sólo en el eje trasero",
+      "Sí, pero sólo en el eje delantero",
+      "No, no está permitido."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 79,
+    "question": "Los neumáticos de los vehículos de locomoción colectiva y de los taxis deben tener una banda de rodamiento cuyo dibujo tenga al menos las siguientes profundidades: (Clases A-1, A-2 y A-3)\n",
+    "options": [
+      "Buses y minibuses: 1,8 mm; taxis: 1, 5 mm.",
+      "Buses: 1,8 mm; minibuses y taxis: 1,6 mm.",
+      "Buses y minibuses: 2,0 mm; taxis: 1,6 mm.",
+      "Buses: 2,0 mm; minibuses y taxis: 1,6 mm."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 80,
+    "question": "¿Cuál de los siguientes requisitos no es aplicable al extintor de incendio que deben llevar los taxis? (Clase A-1)\n",
+    "options": [
+      "Tener como agente extintor polvo químico seco.",
+      "Tener como mínimo un potencial de extinción 1A - 2B.",
+      "Estar dotado de manómetro.",
+      "Tener una etiqueta que señale la fecha en que fue adquirido."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 81,
+    "question": "En los buses de servicios rurales e interurbanos de transporte público de pasajeros deben portarse dos extintores 2A -10B, C ó un extintor 4A - 10B, C. ¿Es esto verdadero? (Clases A-2 y A-3)\n",
+    "options": [
+      "Sí, siempre.",
+      "Sí, pero sólo en viajes de más de 500 km.",
+      "Sí, pero sólo en viajes nocturnos.",
+      "No."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 82,
+    "question": "En los minibuses que prestan servicio de transporte público de pasajeros debe portarse un extintor con, a lo menos, un potencial de extinción 2A -5B, C. ¿Es esto verdadero? (Clases A-2 y A-3)\n",
+    "options": [
+      "No",
+      "Sí",
+      "Sí, a menos que tengan una antigüedad inferior a 5 años.",
+      "Sí, pero sólo si el vehículo presta servicio urbano."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 83,
+    "question": "En un servicio de locomoción colectiva rural de 30 km de longitud prestado con buses, ¿pueden transportarse pasajeros de pie? (Clases A-2 y A-3)\n",
+    "options": [
+      "Sí.",
+      "Sí, pero siempre que el Seremitt de Transportes lo haya autorizado.",
+      "Sí, pero sólo hasta 5 personas.",
+      "No."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 84,
+    "question": "¿Cómo se define un servicio de transporte interurbano de pasajeros? (Clases A-1, A-2 y A-3)\n",
+    "options": [
+      "Aquellos cuyo recorrido excede de 100 km",
+      "Aquellos cuyo recorrido excede de 200 km o que sin exceder los 200 km se realizan entre Santiago y localidades o ciudades ubicadas fuera de la Región Metropolitana.",
+      "Aquellos que se realizan entre ciudades de regiones distintas.",
+      "Aquellos que se realizan entre ciudades de más de 50.000 habitantes."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 85,
+    "question": "¿Cómo se define un servicio de transporte rural de pasajeros? (Clases A-1, A-2 y A-3)\n",
+    "options": [
+      "Aquellos que se realizan al interior de una región.",
+      "Aquellos cuyo recorrido excede de 200 km.",
+      "Aquellos cuyo recorrido excede el radio urbano de una ciudad sin superar, en general, los 200 km de longitud, salvo el caso de Región Metropolitana.",
+      "Aquellos que se realizan entre pueblos o ciudades de menos de 50.000 habitantes."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 86,
+    "question": "¿Cuál de las siguientes características distingue a un servicio de transporte de pasajeros privado de uno público? (Clases A-1, A-2 y A-3)\n",
+    "options": [
+      "Está disponible para cualquier persona que lo requiera en una parada de buses.",
+      "Se presta sólo con vehículos de menos de 5 años de antigüedad.",
+      "Se presta en la medida que exista un contrato de transporte previo entre el prestador del servicio y los pasajeros.",
+      "Se presta sólo con minibuses."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 87,
+    "question": "¿Cuál es el decreto del Ministerio de Transportes y Telecomunicaciones que establece la normativa para la prestación de los servicios nacionales de transporte público de pasajeros? (Clases A-1, A-2 y A-3)\n",
+    "options": [
+      "El Decreto Supremo Nº 212 del año 1992",
+      "El Decreto Supremo Nº 83 del año 1985",
+      "El Decreto Supremo Nº 63 del año 1984",
+      "El Decreto Supremo Nº 75 del año 1999"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 88,
+    "question": "En el transporte privado remunerado de pasajeros en buses y minibuses, ¿debe cumplirse con normas específicas? (Clases A-2 y A-3)\n",
+    "options": [
+      "No, salvo en el caso del transporte escolar",
+      "No",
+      "Sí",
+      "Sí, pero sólo tratándose de buses y de viajes interregionales."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 89,
+    "question": "La ley 19.040 establece que la prestación de servicios con vehículos impedidos de hacerlo puede ser sancionada con una multa de hasta 10 UTM. ¿En cuál de los siguientes casos no procedería tal sanción? (Clases A-1, A-2 y A-3)\n",
+    "options": [
+      "Si el vehículo presta un servicio de transporte público no estando inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros.",
+      "Si el vehículo presta servicio de transporte público de pasajeros en una modalidad distinta a aquella para la cual está inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros.",
+      "Si el vehículo presta servicio de transporte público de pasajeros teniendo una antigüedad superior a la máxima permitida.",
+      "Si el vehículo no tiene revisión técnica vigente."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 90,
+    "question": "En un servicio de locomoción colectiva rural, ¿puede hacerse funcionar la radio del vehículo? (Clases A-2 y A-3)\n",
+    "options": [
+      "No",
+      "Sí, pero sólo en viajes largos",
+      "Sí, siempre que el vehículo sea tipo pullman.",
+      "Sí, siempre que el volumen sea moderado y ningún pasajero se oponga."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 91,
+    "question": "En los servicios interurbanos de transporte público de pasajeros, ¿Cuándo debe confeccionarse un listado con la nómina de pasajeros? (Clases A-2 y A-3)\n",
+    "options": [
+      "Cuando el largo del recorrido es superior a 200 kilómetros.",
+      "Cuando el servicio abarca 2 o más regiones.",
+      "Cuando el recorrido dura más de 5 horas.",
+      "Cuando el recorrido dura más de 6 horas."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 92,
+    "question": "Un taxi que está inscrito en el Registro de Servicios de Transporte de Pasajeros en una región distinta de la metropolitana, ¿puede estar en servicio si su antigüedad es de 18 años? (Clase A-1), (Regiones distintas de la RM))\n",
+    "options": [
+      "Sí, pero sólo en la región donde está inscrito",
+      "Sí, pero requiere de revisiones técnicas más frecuentes",
+      "Sí, cuando su cilindrada es superior a 1.8 litros",
+      "No"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 93,
+    "question": "Un taxi que está inscrito en el Registro de Servicios de Transporte de Pasajeros en una región distinta de la metropolitana, ¿puede prestar servicio si su antigüedad es de más de 12 años? (Clase A-1), (Regiones distintas de la RM) )\n",
+    "options": [
+      "Sí, en la medida que aprueben una revisión técnica cada 4 meses y la antigüedad no sea de más de 15 años.",
+      "Sí, en la medida que aprueben 2 revisiones técnicas anuales.",
+      "Sí, pero sólo servicio de taxi básico.",
+      "Sí, pero sólo en la modalidad de turismo"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 94,
+    "question": "¿Cuál es la antigüedad máxima que puede tener un taxi para que pueda prestar servicio como taxi básico en la Región Metropolitana? (Clase A-1), (Región Metropolitana)\n",
+    "options": [
+      "8 años",
+      "10 años",
+      "12 años",
+      "14 años"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 95,
+    "question": "¿Qué servicio de taxi no requiere estar inscrito en el Registro Nacional de Transporte de\nPasajeros? (Clase A-1)\n",
+    "options": [
+      "Los que están adscritos a servicios de carácter internacional.",
+      "Los taxis colectivos de menos de 3 años de antigüedad",
+      "Los taxis de turismo",
+      "Los taxis ejecutivos"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 96,
+    "question": "Los taxis que usan taxímetro como mecanismo de cobro tarifario deben exhibir en el parabrisas delantero, el valor de: (Clase A-1)\n",
+    "options": [
+      "Los primeros 100 m de recorrido y el monto a cobrar por cada 200 m de recorrido adicional.",
+      "Los primeros 200 m de recorrido y el monto a cobrar por cada 200 m de recorrido adicional y por cada 60 segundos de espera.",
+      "Los primeros 200 m de recorrido y el monto a cobrar por cada 100 m de recorrido adicional y por cada 60 segundos de espera.",
+      "Los primeros 200 m de recorrido y el monto a cobrar por cada 2 minutos adicionales."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 97,
+    "question": "Cuando corresponde el uso de taxímetro, ¿Dónde debe ir éste ubicado? (Clase A-1)\n",
+    "options": [
+      "Sobre la guantera",
+      "Bajo la guantera",
+      "En el centro de la parte delantera a la altura del panel de instrumentos o apoyado sobre éste, o fijado al techo.",
+      "En la parte delantera interior del vehículo a la altura del panel de instrumentos, detrás del volante."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 98,
+    "question": "¿Cuál de las siguientes situaciones no constituye causal de comiso del taxímetro? (Clase A-1)\n",
+    "options": [
+      "Cuando se encuentra ubicado en un lugar no reglamentario.",
+      "Cuando su mecanismo ha sido alterado de modo que arroje valores superiores a la tarifa anunciada.",
+      "Cuando presenta violado el sello colocado por la autoridad.",
+      "Cuando su funcionamiento ha sido alterado mediante una modificación de las características del vehículo, entregando valores superiores a la tarifa anunciada."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 99,
+    "question": "¿Puede un conductor de taxi en servicio viajar acompañado de alguien que no sea un pasajero que haya solicitado su transporte? (Clase A-1)\n",
+    "options": [
+      "Sí, cuando sólo es por algunas cuadras.",
+      "No, ello está expresamente prohibido.",
+      "Sí, cuando la persona que lo acompaña es un familiar.",
+      "Sí, siempre que el acompañante no moleste a los demás pasajeros."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 100,
+    "question": "Como máximo, ¿Cuántas personas pueden viajar en un taxi? (Clase A-1)\n",
+    "options": [
+      "4, incluido el conductor.",
+      "Todas las que quepan.",
+      "La indicada en un letrero que debe existir en un lugar visible en el interior del vehículo.",
+      "Depende de la contextura de los pasajeros."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 101,
+    "question": "Los vehículos que se arman en el país con partes y piezas usadas se inscriben en el Registro de Vehículos Motorizados como “hechizos”. Como norma general, ¿pueden estos vehículos circular por cualquier ruta del país? (Clases A-4 y A-5)\n",
+    "options": [
+      "Sí, como cualquier otro vehículo.",
+      "Sí, siempre que cuenten con una revisión técnica especial.",
+      "Sí, pero sólo durante el día.",
+      "No, su circulación está prohibida en las principales rutas del país, como lo son la Ruta 5, la 68, la 78, la 148, entre otras."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 102,
+    "question": "Un camión inscrito como “hechizo” el año 1994, ¿puede circular por las rutas 57CH y 148, Santiago – Los Andes y Concepción – Bulnes, respectivamente? (Clases A-4 y A-5)\n",
+    "options": [
+      "No",
+      "Sí, siempre que su revisión técnica esté vigente.",
+      "Sí, siempre que vaya con carga inferior a 1.750 kg.",
+      "Sí, siempre que cuente con un seguro especial."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 103,
+    "question": "En relación con el transporte de carga, ¿existe alguna reglamentación especial para el transporte de productos forestales? (Clases A-4 y A-5)\n",
+    "options": [
+      "No, sólo se deben aplicar las disposiciones contenidas en la Ley de Tránsito.",
+      "No, sólo se deben aplicar las normas generales y las disposiciones contenidas en un reglamento para el transporte de carga en general.",
+      "Sí, pero sólo existen disposiciones relacionadas con la antigüedad máxima de los vehículos.",
+      "Sí, existe un reglamento específico para el transporte seguro de dichos productos."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 104,
+    "question": "En relación con el transporte de madera en rollizos, ¿a partir de qué largo de éstos los vehículos que los transporten deben contar con atriles de acero cuyas características están reglamentadas por el Ministerio de Transportes y Telecomunicaciones? (Clases A-4 y A-5)\n",
+    "options": [
+      "1,5 metros",
+      "1,8 metros",
+      "2,5 metros",
+      "3,2 metros"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 105,
+    "question": "Si la carga sobresale de la parte trasera del vehículo, ¿Cuándo debe llevar en su extremo una luz roja en la noche o un banderín del mismo color durante el día? (Clases A-4 y A-5)\n",
+    "options": [
+      "Cuando sobresale hasta 0,50 metros.",
+      "Cuando sobresale entre 0.5 y 2.0 metros.",
+      "Cuando sobresale más de 2 metros.",
+      "En ningún caso."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 106,
+    "question": "¿Cuánto es lo máximo que puede exceder la carga de la parte trasera de un vehículo de carga? (Clases A-4 y A-5)\n",
+    "options": [
+      "1.0 metro.",
+      "1.5 metros.",
+      "2.0 metros.",
+      "3.0 metros."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 107,
+    "question": "Tratándose del transporte de productos explosivos, éste, además de cumplir con las normas emanadas del Ministerio de Transportes y Telecomunicaciones debe efectuarse conforme a normas específicas dictadas por: (Clases A-4 y A-5)\n",
+    "options": [
+      "Ministerio de Defensa",
+      "Ministerio de Economía",
+      "Ministerio de Minería",
+      "Ninguno de los anteriores"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 108,
+    "question": "Tratándose del transporte de materiales radiactivos, éste, además de cumplir con las normas emanadas del Ministerio de Transportes y Telecomunicaciones debe efectuarse conforme a normas específicas dictadas por: (Clases A-4 y A-5)\n",
+    "options": [
+      "Ministerio de Defensa",
+      "Ministerio de Economía",
+      "Ministerio de Minería",
+      "Sólo son aplicables las normas del Ministerio de Transportes"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 109,
+    "question": "La antigüedad de los vehículos motorizados que efectúan transporte de cargas peligrosas no puede ser superior a: (Clases A-4 y A-5)\n",
+    "options": [
+      "12 años",
+      "15 años",
+      "18 años",
+      "20 años"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 110,
+    "question": "Con vehículos “hechizos”, ¿puede efectuarse transporte de cargas peligrosas? (Clases A-4 y A-5)\n",
+    "options": [
+      "Sí, pero sólo en caminos secundarios.",
+      "Sí, pero solamente de día.",
+      "No, salvo en determinadas regiones del país.",
+      "No, está expresamente prohibido."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 111,
+    "question": "Los vehículos con los cuales se efectúe transporte de cargas peligrosas deben portar los rótulos a que se refiere la Norma Chilena Oficial NCh2190.Of93, los que deben ser visibles por personas ubicadas: (Clases A-4 y A-5)\n",
+    "options": [
+      "Al frente de ellos, solamente.",
+      "A cualquiera de sus costados, solamente.",
+      "Atrás o al frente de ellos, solamente.",
+      "Al frente, atrás o a los costados de ellos."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 112,
+    "question": "Los vehículos con los cuales se efectúe transporte de cargas peligrosas deben portar los rótulos a que se refiere la Norma Chilena Oficial NCh2190.Of93, durante las operaciones: (Clases A-4 y A-5)\n",
+    "options": [
+      "De carga y transporte solamente.",
+      "De carga, transporte, descarga, transbordo y limpieza.",
+      "De transporte, solamente.",
+      "De carga, transporte y descarga, solamente."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 113,
+    "question": "¿Cuál de los siguientes vehículos que transportan cargas peligrosas están exentos del uso de tacógrafo u otro dispositivo electrónico equivalente? (Clases A-4 y A-5)\n",
+    "options": [
+      "Los que transportan ácido sulfúrico en envases de menos de 5 litros.",
+      "Los que transportan cloruro de cal.",
+      "Los que transportan pesticidas orgánico fosforados.",
+      "Los que transportan cilindros de gas licuado de petróleo a los domicilios."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 114,
+    "question": "¿Cuánto es el peso total máximo que puede tener una combinación de camión con remolque? (Clase A-5)\n",
+    "options": [
+      "30 toneladas",
+      "40 toneladas",
+      "45 toneladas",
+      "50 toneladas"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 115,
+    "question": "¿Cuánto es el peso máximo de una combinación camión con semi-remolque, con eje posterior triple? (Clase A-5)\n",
+    "options": [
+      "40 toneladas",
+      "45 toneladas",
+      "50 toneladas",
+      "55 toneladas"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 116,
+    "question": "¿Cuánto es el peso máximo aceptable en un eje doble de un rodado simple? (Clases A-4 y A-5)\n",
+    "options": [
+      "12 toneladas",
+      "14 toneladas",
+      "15 toneladas",
+      "18 toneladas"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 117,
+    "question": "Los vehículos de carga cuyo peso bruto vehicular sea de 7 ton o más deben contar con cintas retrorreflectantes en sus costados y parte trasera. En relación con tal normativa, ¿cuál de las siguientes afirmaciones es verdadera? (Clases A-4 y A-5)\n",
+    "options": [
+      "Las cintas deben ser sólo de color rojo.",
+      "Las cintas deben ser de color amarillo.",
+      "Las cintas deben ser de colores blanco y rojo alternadamente.",
+      "Las cintas deben ser de color amarillo y negro alternadamente."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 118,
+    "question": "Los vehículos de carga cuyo peso bruto vehicular sea de 7 ton o más deben contar con cintas retrorreflectantes. En relación con tal normativa, ¿Cuál de las siguientes afirmaciones es verdadera? (Clases A-4 y A-5)\n",
+    "options": [
+      "Las cintas deben ubicarse sólo en los costados del vehículo.",
+      "Las cintas se deben ubicar sólo en la parte posterior",
+      "Las cintas deben ubicarse en la parte posterior o en los costados.",
+      "Las cintas deben ubicarse en la parte posterior y en los costados."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 119,
+    "question": "Los vehículos de carga cuyo peso bruto vehicular sea de 7 ton o más deben contar con cintas retrorreflectantes. En relación con tal normativa, ¿Qué vehículos están exentos de contar con tales cintas? (Clases A-4 y A-5)\n",
+    "options": [
+      "Los remolques",
+      "Los semirremolques",
+      "Los camiones que transportan cargas peligrosas",
+      "Ninguno, la norma rige para todos sin excepción. Conocimientos reglamentarios: Señales y Demarcaciones"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 120,
+    "question": "¿Qué significa de demarcación que se ve en la fotografía?\n",
+    "options": [
+      "Que es una pista para tránsito lento.",
+      "Que es una pista especial para vehículos de emergencia, que debe ser despejada ante la proximidad de éstos.",
+      "Que existe algún establecimiento para urgencias médicas en la cercanía.",
+      "No significa nada en particular."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 121,
+    "question": "¿Qué indican las flechas demarcadas en la pista por la que Ud. va?\n",
+    "options": [
+      "Que está obligado a seguir derecho",
+      "Que está obligado a virar a la derecha",
+      "Que puede seguir derecho o virar a la derecha",
+      "Que Ud. puede virar a la derecha con luz roja"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 122,
+    "question": "¿Qué significa esta señal?\n",
+    "options": [
+      "Informa que el estacionamiento debe efectuarse en gran parte sobre la berma.",
+      "Advierte sobre una ribera sin protección.",
+      "Advierte sobre proximidad de vehículos estacionados en la berma.",
+      "Advierte sobre la existencia de un desnivel importante entre la calzada y la berma o entre pistas adyacentes."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 123,
+    "question": "Justo antes de un puente Ud. encuentra esta señal. ¿Qué significa? (Clases A-4 y A-5)\n",
+    "options": [
+      "Que no pueden circular más allá de la señal vehículos cuyo peso por eje sea superior a 10 toneladas.",
+      "Que no pueden circular más allá de la señal vehículos cuyo peso total sea superior a 10 toneladas.",
+      "Que no pueden circular más allá de la señal vehículos de más de 10 metros de largo.",
+      "Que los vehículos de más de 10 toneladas deben circular lentamente."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 124,
+    "question": "¿Con qué debe contar Ud. cuando enfrenta esta señal?\n\nI. Con trabajadores en la calzada\nII. Con la presencia de arena, tierra o piedras en la calzada\nIII. Con la presencia de maquinaria\n",
+    "options": [
+      "Sólo I",
+      "Sólo I y II",
+      "Sólo I y III",
+      "I, II y III"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 125,
+    "question": "¿Qué indica esta señal?\n",
+    "options": [
+      "Inicio de Autopista.",
+      "Proximidad de paso a desnivel.",
+      "Fin de Autopista.",
+      "Proximidad de puente."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 126,
+    "question": "¿Qué indican estas señales?\n",
+    "options": [
+      "La proximidad de un paso a desnivel.",
+      "La distancia de 300, 200 y 100 m al inicio de una pista de desaceleración para salir de una autopista.",
+      "La distancia de 300, 200 y 100 m a un cruce peligroso.",
+      "Ninguna de las anteriores."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 127,
+    "question": "¿Qué significa la señal de tránsito que se observa en la fotografía?\n",
+    "options": [
+      "Que se acerca a una autopista con cobro electrónico de peaje.",
+      "Que sólo pueden continuar por esa vía los vehículos provistos de un dispositivo para el cobro electrónico de peaje.",
+      "Paso sobre nivel eliminado.",
+      "Fin de autopista."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 128,
+    "question": "¿Qué significa esta señal?\n\nTránsito.",
+    "options": [
+      "Que a partir de la señal la velocidad máxima permitida es la establecida en la Ley de",
+      "Que a partir de la señal se puede adelantar.",
+      "Que a partir de la señal se puede adelantar y el límite de velocidad máxima es el establecido en la Ley de Tránsito.",
+      "Que a partir de la señal no se puede adelantar."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 129,
+    "question": "¿Cuál es el color de fondo de la señalización informativa de autopistas?\n",
+    "options": [
+      "Blanco",
+      "Azul",
+      "Café",
+      "Verde"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 130,
+    "question": "Las marcas discontinuas que se observan a la derecha de la fotografía son más anchas que en el caso de las líneas de pista normales. ¿Qué significan?\n",
+    "options": [
+      "La proximidad de una línea continua.",
+      "La existencia al costado derecho de una pista de desaceleración.",
+      "Una zona donde se permite el estacionamiento.",
+      "Una parada de locomoción colectiva."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 131,
+    "question": "¿Qué es lo más importante para evitar chocar a un vehículo que va adelante?\n",
+    "options": [
+      "Asegurarse de que sus frenos sean eficientes.",
+      "Tener neumáticos en muy buen estado.",
+      "Conducir a una velocidad reducida y constante.",
+      "Mantener una distancia segura entre vehículos."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 132,
+    "question": "Al pasar por una calle en la que a la derecha hay autos estacionados, si es posible, Ud. debería …\n",
+    "options": [
+      "pasar a no más del ancho de una puerta de ellos.",
+      "pasar dejando a lo menos un espacio equivalente al ancho de una puerta.",
+      "pasar a no menos de 2 metros de ellos.",
+      "pasar a no menos de 3 metros de ellos."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 133,
+    "question": "Ud. se va acercando con su vehículo a un sector donde hay niños que juegan en la vereda. ¿Qué debería hacer?\n",
+    "options": [
+      "Reducir la velocidad y continuar preparado para frenar.",
+      "Tocar la bocina y continuar.",
+      "Continuar a la misma velocidad para no entorpecer a quienes vienen detrás suyo.",
+      "Continuar a la misma velocidad porque los niños saben que no pueden bajar a la calzada."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 134,
+    "question": "Ud. se aproxima a un colegio cuando los niños están saliendo de clases. ¿Con qué debería contar?\n\nI. Con que los niños pueden jugar traviesamente y bajar a la calzada.\nII. Con que los niños pueden cruzar inesperadamente la calzada.\nIII. Con nada en particular, porque los niños saben que no deben bajar a la calzada en\nforma sorpresiva.\n",
+    "options": [
+      "Sólo I",
+      "I y II",
+      "Sólo II",
+      "III"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 135,
+    "question": "Por la vía van ciclistas a los que va a sobrepasar. ¿Qué espacio lateral, como mínimo, mantiene Ud.\nrespecto de ellos al hacerlo?\n",
+    "options": [
+      "Poco menos de 1.0 m, y al pasarlos toca la bocina.",
+      "Sólo unos 50 cm, porque los ciclistas no circulan muy rápido.",
+      "A lo menos 1.5 m.",
+      "Sólo unos 50 cm, porque los ciclistas ocupan poco espacio."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 136,
+    "question": "¿Por qué al adelantar o sobrepasar a un ciclista usted debe dejar el máximo espacio lateral posible?\n",
+    "options": [
+      "Porque el ciclista podría cambiar de pista.",
+      "Porque el ciclista podría bajarse de la bicicleta.",
+      "Porque el ciclista podría tener que virar a la izquierda.",
+      "Porque el ciclista podría desviarse bruscamente o tambalear."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 137,
+    "question": "Al conducir por un camino como el que muestra la fotografía, ¿con qué peligro(s) debe contar\nusted?\n\nI. Con que alguien que venga en contra “acorte” su recorrido en una curva invadiendo la\npista por la que usted va.\nII. Con algún vehículo que pueda estar en pana justo después de una curva.\nIII. Con que sorpresivamente aparezca un animal en la calzada.\n",
+    "options": [
+      "Sólo I y II",
+      "Sólo I y III",
+      "Sólo II y III",
+      "I,II y III"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 138,
+    "question": "¿Cuál es el principal peligro cuando usted sobrepasa al bus que se ha detenido en la parada?",
+    "options": [
+      "Que usted debe ceder el paso al bus si éste se pone en marcha.",
+      "Que algún vehículo que va adelante puede detenerse para ceder el paso a un peatón.",
+      "Que alguien puede venir corriendo al bus desde el otro lado de la calle.",
+      "Que algún pasajero que se baje del bus puede aparecer repentinamente delante del mismo para cruzar."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 139,
+    "question": "En esta situación, ¿con qué debe contar Ud.?\n\nI. Con vehículos que crucen el camino antes de la curva.\nII. Con una curva pronunciada hacia la izquierda.\nIII. Con la posibilidad de que pueda haber un vehículo detenido justo después de la curva.\nIV. Con una peligrosa curva a la derecha.\n",
+    "options": [
+      "I y II",
+      "II y III",
+      "III y IV",
+      "I, III y IV"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 140,
+    "question": "En esta situación, ¿con qué debería contar Ud.?\n\nI. Podría encontrase con un vehículo avanzando lentamente delante suyo\nII. Podría encontrarse con un vehículo en pana ocupando parte de la calzada\nIII. Podría venir un vehículo en contra circulando por el centro de la cazada\n",
+    "options": [
+      "Sólo I",
+      "Sólo III",
+      "Sólo I y II",
+      "I, II y III"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 141,
+    "question": "¿Qué es lo más seguro que Ud. debería hacer en estas circunstancias?\n",
+    "options": [
+      "Mantenerse bien a la derecha y reducir la velocidad.",
+      "Encender sus luces de advertencia para alertar al tránsito que viene en contra.",
+      "Aumentar la velocidad y tocar la bocina.",
+      "Desplazarse hacia el centro de calzada y tocar la bocina."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 142,
+    "question": "¿Cuándo debe usar Ud. los espejos retrovisores de su vehículo?\n\nI. Antes de disminuir la velocidad y detenerse\nII. Antes de hacer partir el motor\nIII. Antes de señalizar\nIV. Antes de cambiarse de pista y adelantar\n",
+    "options": [
+      "I, II y IV",
+      "I, III y IV",
+      "III y IV",
+      "Sólo IV"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 143,
+    "question": "Recién abandonada una autopista, es muy probable que Ud. perciba que su velocidad es …\n",
+    "options": [
+      "mayor que la real",
+      "menor que la real",
+      "mucho mayor que la real",
+      "igual a la real"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 144,
+    "question": "En una autopista, Ud. se molesta porque delante suyo va un vehículo a una velocidad más baja que la normal entorpeciendo el tránsito. ¿Qué hace Ud.?\n",
+    "options": [
+      "Demuestra su enojo acercándose a él y encendiendo y apagando sus luces.",
+      "Ud. se domina, es paciente, y acomoda su velocidad.",
+      "Toca la bocina para apurarlo.",
+      "Lo apura acercándose mucho por atrás."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 145,
+    "question": "¿Cómo se comporta Ud. en una pista de aceleración?\n\nI. Acelera prudentemente y en lo posible sin parar se incorpora al flujo de la pista contigua respetando su preferencia.\nII. Pasa por la derecha a los vehículos más lentos de la pista contigua y se enfila delante de ellos.\nIII. Conduce siempre lentamente hasta el final de la pista y ahí se detiene.\nIV. Conduce velozmente hasta el final de la pista y ahí se detiene.\n",
+    "options": [
+      "Sólo III",
+      "Sólo IV",
+      "I y II",
+      "Ninguna opción es correcta."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 146,
+    "question": "Observe la figura. ¿Quién debería ceder el paso?\n",
+    "options": [
+      "El vehículo que vaya más rápido.",
+      "El vehículo que va en la pista de aceleración.",
+      "El vehículo de la izquierda, porque va sobrepasando.",
+      "El vehículo que sea de mayor peso y tamaño."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 147,
+    "question": "Al ingresar a una autopista por una pista de aceleración, ¿por qué es importante usar dicha pista a lo largo de toda su extensión?\n",
+    "options": [
+      "Porque tiene espacio para detenerse si es necesario.",
+      "Para poder usar la berma si lo requiere.",
+      "Para poder alcanzar con facilidad una pista de alta velocidad.",
+      "Para poder alcanzar una velocidad similar a la del flujo de la autopista."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 148,
+    "question": "Observe la fotografía. ¿Qué debería hacer Ud.?\n",
+    "options": [
+      "Controlar su velocidad y, si es necesario, reducirla.",
+      "Frenar una vez que haya ingresado a la curva, para no entorpecer a quienes vienen detrás.",
+      "Continuar a la misma velocidad que venía por la autopista, porque la vía se ve despejada.",
+      "Continuar a la velocidad que venía por la autopista porque no hay restricción de velocidad."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 149,
+    "question": "¿Por qué adelantar en una calzada recta en muy buen estado y con poco tránsito también es\npeligroso?\n",
+    "options": [
+      "Porque a menudo se subestima la velocidad del tránsito en contra.",
+      "Porque a menudo se sobrestima la velocidad del tránsito en contra.",
+      "Porque a menudo se sobrestima la velocidad del vehículo al que se desea adelantar.",
+      "Porque el vehículo que se desea adelantar puede disminuir su velocidad."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 150,
+    "question": "¿Por qué adelantar a un camión es más arriesgado que adelantar a un auto?\n",
+    "options": [
+      "Porque los camiones circulan más lento.",
+      "Porque los camiones son más largos que los autos.",
+      "Porque los camiones no tienen tercera luz de freno.",
+      "Porque los camiones son más anchos y altos que los autos."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 151,
+    "question": "Ud. va circulando rápido por una carretera. A cierta distancia ve animales pastando muy cerca de la vía. ¿Qué hace Ud.?\n",
+    "options": [
+      "Disminuye la velocidad y está preparado para frenar.",
+      "Aumenta la velocidad para alejarse rápido por el lugar.",
+      "Frena violentamente en forma inmediata.",
+      "Aumenta la velocidad y toca levemente la bocina para alertar a los animales."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 152,
+    "question": "Ud. va conduciendo detrás de otro vehículo, a una distancia equivalente a la que recorre en un segundo. En estas circunstancias, de las siguientes afirmaciones, ¿Cuál(es) es(son) verdadera(s)?\n\nI. La distancia de un segundo es insuficiente y aumenta el riesgo de colisión.\nII. La distancia resulta adecuada ya que en un segundo alcanza a reaccionar ante un imprevisto.\nIII. Con seguridad, el conductor que va adelante se sentirá intimidado.\n",
+    "options": [
+      "I y III",
+      "Sólo II",
+      "II y III",
+      "Sólo III"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 153,
+    "question": "¿Qué significa conducir a una distancia razonable y prudente del vehículo que va adelante?\n",
+    "options": [
+      "Conducir a una distancia equivalente al largo de 2 autos.",
+      "Conducir a unos 25 metros del que va adelante.",
+      "Conducir a una distancia equivalente a lo que usted recorre en un segundo.",
+      "Conducir a una distancia que le permite a Ud. reaccionar y frenar a tiempo ante una disminución de velocidad o detención sorpresiva del que va adelante."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 154,
+    "question": "Conducir en carretera detrás de un vehículo a una distancia equivalente a la que recorre en un segundo es:\n",
+    "options": [
+      "Lo normal",
+      "Una irresponsabilidad",
+      "Entretenido",
+      "Necesario"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 155,
+    "question": "En general, ¿Cuántas horas deben transcurrir aproximadamente para que el organismo de un individuo que presenta 1.0 gr de alcohol por mil gramos de sangre se encuentre libre de alcohol?\n",
+    "options": [
+      "1 hora",
+      "Unas 2 horas",
+      "Unas 5 horas",
+      "Unas 10 horas"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 156,
+    "question": "El consumo de una pequeña dosis de alcohol lo puede llevar a …\n\nI. Conducir de manera arriesgada.\nII. Que sus reacciones se vean retardadas.\nIII. Una disminución de sus capacidades.\n",
+    "options": [
+      "Sólo I",
+      "Sólo I y II",
+      "Sólo I y III",
+      "I, II y III"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 157,
+    "question": "Si Ud. ingiere bebidas alcohólicas, debe saber que, como norma general, sus efectos negativos para la conducción alcanzan su punto máximo …\n",
+    "options": [
+      "aproximadamente a la hora de haberlas ingerido.",
+      "a las 2 horas de haberlas ingerido, más o menos.",
+      "a las 2 1/2 horas de haberlas ingerido, más o menos.",
+      "Inmediatamente."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 158,
+    "question": "Si a Ud. le realizan una prueba de alcoholemia y ha estado fumando, ¿le puede afectar el hecho de haber fumado en el resultado de la alcoholemia?\n",
+    "options": [
+      "No",
+      "Sí"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 159,
+    "question": "¿Qué otros elementos o sustancias pueden perjudicar su capacidad para conducir en forma similar al alcohol?\n",
+    "options": [
+      "Una taza de café",
+      "Determinados medicamentos",
+      "Una taza de té",
+      "Las bebidas gaseosas"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 160,
+    "question": "El doctor le ha recetado unos remedios. ¿Cuál es la principal razón por la que debe consultarle si puede conducir o no?\n",
+    "options": [
+      "Porque las medicinas pueden afectar su visión.",
+      "Porque algunas medicinas pueden hacer que sus reacciones sean más lentas.",
+      "Porque las drogas influyen en su conducción al hacer más rápidas sus reacciones.",
+      "Porque en caso de accidente no estaría cubierto por el Seguro Obligatorio."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 161,
+    "question": "Usted está a punto de conducir, pero se siente enfermo. Usted debería ...\n",
+    "options": [
+      "tomar una medicina antes de conducir.",
+      "acortar el viaje si puede.",
+      "no manejar.",
+      "prometerse a sí mismo que se va a acostar tan pronto haya llegado a casa."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 162,
+    "question": "¿Qué efecto tiene el sueño en un conductor?\n",
+    "options": [
+      "Aumenta su capacidad de reacción",
+      "Aumenta su concentración",
+      "Disminuye su capacidad de reacción",
+      "Mejora su rendimiento"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 163,
+    "question": "La fatiga que produce la conducción hace que, además de otros síntomas, disminuya ...\n",
+    "options": [
+      "la capacidad de concentración y la seguridad.",
+      "el tiempo de reacción.",
+      "la sensibilidad al deslumbramiento durante la noche."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 164,
+    "question": "Conducir cansado es:\n",
+    "options": [
+      "Algo inevitable",
+      "Necesario",
+      "Peligroso",
+      "Más entretenido"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 165,
+    "question": "¿Cómo puede Ud. notar una fuga del líquido de frenos? (Clase A-1)\n",
+    "options": [
+      "Porque el pedal de freno llega casi hasta el fondo.",
+      "Porque el pedal de freno tiene poco recorrido.",
+      "Porque el pedal de freno está muy duro."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 166,
+    "question": "¿Cuáles de las siguientes afirmaciones son verdaderas al echar gasolina a su vehículo? (Clase A-1)\n\nI. Ud. debe evitar la inhalación de vapores de la gasolina.\nII. Ud. no debe echar gasolina cuando el motor esta funcionando.\nIII. Ud. debe tratar siempre de llenar el estanque al máximo.\n",
+    "options": [
+      "Sólo I",
+      "I y II",
+      "I y III",
+      "Sólo III"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 167,
+    "question": "Si los espejos de su vehículo están bien regulados Ud. no tendrá “ángulo muerto” o espacio sin\nvisión. ¿Es esto verdadero?\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 168,
+    "question": "En los espejos retrovisores laterales convexos, los vehículos que se acercan por atrás se ven …\n",
+    "options": [
+      "un poco más cerca de lo que están en la realidad.",
+      "a igual distancia de la que están en la realidad.",
+      "más lejos de lo que están en la realidad.",
+      "mucho más cerca de lo que están en la realidad."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 169,
+    "question": "Los espejos retrovisores de su vehículo:\n",
+    "options": [
+      "Deben ser cóncavos",
+      "Deben ser tintados",
+      "Deben estar ajustados adecuadamente",
+      "Deben ser convexos"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 170,
+    "question": "El ajuste de sus espejos retrovisores y la acomodación de su asiento debe ser efectuada …\n",
+    "options": [
+      "con el vehículo en marcha.",
+      "con el vehículo en una subida o bajada.",
+      "con el vehículo detenido y en una zona horizontal.",
+      "en cualquier momento que se requiera."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 171,
+    "question": "¿Qué influye en la magnitud de la fuerza centrífuga en las curvas?\n\nI. El viento\nII. La velocidad\nIII. El radio de curva\n",
+    "options": [
+      "I y II",
+      "I y III",
+      "II y III",
+      "I, II y III"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 172,
+    "question": "¿Qué podría hacerlo patinar en una curva?\n\nI. Frenadas fuertes\nII. Conducir a baja velocidad en la salida de la curva\nIII. Conducir a alta velocidad en una calzada mojada\n",
+    "options": [
+      "Sólo I",
+      "Sólo II",
+      "I y II",
+      "I y III"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 173,
+    "question": "Tanto Ud. como un vehículo que viene en contra circulan a 90 km/hr. A tales velocidades la distancia entre ambos vehículos se reduce a una razón de …\n",
+    "options": [
+      "270 km/hr (75 m/seg)",
+      "180 km/hr (50 m/seg)",
+      "135 km/hr (37,5 m/seg)",
+      "90 km/hr (25 m/seg)"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 174,
+    "question": "La distancia de frenado es la distancia que recorre un vehículo desde que se presiona el freno hasta que el vehículo se detiene. ¿Qué variables, influyen en la distancia de frenado?\n",
+    "options": [
+      "Sólo la velocidad.",
+      "Sólo el estado de los neumáticos y frenos.",
+      "La velocidad, la iluminación del lugar y el estado de los frenos.",
+      "La velocidad, el estado de frenos y neumáticos, y las condiciones climáticas."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 175,
+    "question": "¿Cómo puede Ud. estimar, en forma aproximada, la distancia, en metros, que recorre su vehículo en un segundo?\n",
+    "options": [
+      "Velocidad (en km/hr) x 3/10",
+      "Velocidad (en km/hr) x 5/10",
+      "Velocidad (en km/hr)/10 x Velocidad (en km/hr)/10",
+      "Velocidad (en km/hr)/10"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 176,
+    "question": "En una curva, la velocidad debe ser reducida …\n",
+    "options": [
+      "antes de entrar a ella",
+      "cuando la va recorriendo",
+      "cuando ya ha pasado la mitad de ella",
+      "cuando va saliendo de ella"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 177,
+    "question": "Suponga que en una ocasión su distancia de reacción es de 10 m y su distancia de frenado de 20 m. En consecuencia, su distancia de detención es de 30 m. ¿A cuánto aumentaría su distancia de detención si continúa en una calzada de idénticas condiciones, pero aumenta al doble su velocidad?\n",
+    "options": [
+      "50 metros",
+      "60 metros",
+      "80 metros",
+      "100 metros"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 178,
+    "question": "La forma correcta de estibar la carga es: (Clases A-4 y A-5)\n",
+    "options": [
+      "Repartir la carga de manera que no se exceda la altura máxima permitida.",
+      "Repartir el peso de la carga de manera de no producir daños estructurales en el chasis.",
+      "Ubicar la carga cuidando no sobrecargar los ejes más allá del máximo permitido y del señalado por el fabricante del vehículo.",
+      "Todas las anteriores."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 179,
+    "question": "¿Cómo se debe cargar un vehículo compuesto por tractocamión y semirremolque? (Clase A-5)\n",
+    "options": [
+      "Colocando mucho más peso sobre el tractor para tener mejor adherencia al traccionar.",
+      "Colocando mucho más peso en los ejes del semirremolque.",
+      "Cuidando de cargar de forma uniforme en todos los ejes del equipo completo."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 180,
+    "question": "¿Cuál es la función de los frenos ABS?\n",
+    "options": [
+      "Evitar que las ruedas se bloqueen cuando se frena.",
+      "Dar mayor potencia de frenado a las ruedas.",
+      "Alivianar la fuerza ejercida sobre el pedal de freno.",
+      "Complementar la operación de la trasmisión automática."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 181,
+    "question": "Si al bajar de una zona montañosa conduciendo un camión usted necesita hacer uso prolongado de los frenos, ¿Qué sistemas, de los indicados a continuación, utiliza preferentemente? (Clases A4 y A-5)\n",
+    "options": [
+      "El freno de servicio.",
+      "El freno eléctrico o el desacelerador hidrodinámico.",
+      "El freno de inercia."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 182,
+    "question": "Mientras conduce, lo más apropiado y seguro es mirar regularmente por los espejos retrovisores:\n",
+    "options": [
+      "Cuando alguien toca la bocina.",
+      "Cada 5 minutos más o menos.",
+      "Varias veces en un minuto.",
+      "Sólo si desea cambiar de pista y adelantar."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 183,
+    "question": "Ante la ocurrencia de un accidente, ¿Qué es lo más probable?\n",
+    "options": [
+      "Que usted sea detenido.",
+      "Que el accidente pudo haberse evitado.",
+      "Que más de alguien resulte con lesiones graves.",
+      "Que el accidente se haya debido a fallas mecánicas."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 184,
+    "question": "De las siguientes características, ¿Cuál de ellas corresponde a un mal conductor?\n",
+    "options": [
+      "Poseer un alto grado de conocimiento de la normativa del tránsito.",
+      "Ser amable y considerado con todos los usuarios de las vías.",
+      "Conducir permanentemente apurado.",
+      "Conducir a la defensiva."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 185,
+    "question": "¿Qué característica(s) distingue(n) a un buen conductor?\n",
+    "options": [
+      "Capacidad de autocontrol de sus impulsos.",
+      "Capacidad de no reaccionar agresivamente ante el mal comportamiento de otros usuarios de la vía.",
+      "Conciencia plena de la gran responsabilidad que le asiste al conducir.",
+      "Todas las anteriores."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 186,
+    "question": "De los siguientes factores, ¿Cuál es el que con mayor frecuencia se presenta en los accidentes de tránsito?\n",
+    "options": [
+      "Los errores de los conductores.",
+      "El mal estado de señales de tránsito o la falta de éstas.",
+      "Las malas condiciones de calles y caminos.",
+      "Las fallas mecánicas."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 187,
+    "question": "¿Qué se entiende por conducir a la defensiva?\n",
+    "options": [
+      "Hacer valer sus derechos en todo momento.",
+      "Frenar antes de cada cruce.",
+      "Anticiparse a los posibles errores de los demás.",
+      "Conducir siempre en forma muy lenta."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 188,
+    "question": "Ser un buen conductor exige estar permanentemente atento al tránsito y ser considerado con los demás. Para Ud., ¿Qué significa esto?\n\nI. Que debe anticiparse a las situaciones riesgosas\nII. Que debe contar siempre con los errores de los demás\nIII. Que debe exigir que se respeten sus preferencias\n",
+    "options": [
+      "Sólo I",
+      "Sólo II",
+      "Sólo I y II",
+      "I, II y III"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 189,
+    "question": "Al ir Ud. por una vía con grandes árboles, repentinamente sale el sol. En estas circunstancias, ¿Cuál(es) de las siguientes afirmaciones es(son) verdadera(s)?\n\nI. El constante cambio de luz y sombra hace más difícil percibir oportunamente a otros participantes en el tránsito.\nII. El constante cambio de luz y sombra dificulta el cálculo de distancias.\nIII. Ud. debe adecuar su velocidad a las cambiantes condiciones de visibilidad.\n",
+    "options": [
+      "Sólo I",
+      "Sólo II",
+      "Sólo II y III",
+      "Todas"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 190,
+    "question": "¿Cuál(es) de las siguientes circunstancias puede(n) contribuir a que un conductor subestime peligrosamente su propia velocidad?\n\nI. La conducción durante largo rato a alta velocidad.\nII. La conducción sobre calzadas anchas y en buen estado.\nIII. Los motores ruidosos.",
+    "options": [
+      "Sólo II",
+      "I y II",
+      "I, II y III",
+      "Ninguna"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 191,
+    "question": "Suponga que Ud. va a 90 km/hr. Aproximadamente, ¿Qué distancia recorrerá su vehículo desde el momento en que se percata de un peligro que hay más adelante hasta que comienza a frenar?\n",
+    "options": [
+      "Unos 5 metros.",
+      "Unos 15 metros.",
+      "Unos 25 metros.",
+      "Unos 50 metros."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 192,
+    "question": "En promedio, ¿Cuánto tarda un conductor en reaccionar ante un imprevisto?\n",
+    "options": [
+      "0.1 minuto.",
+      "1 minuto.",
+      "0.5 minutos.",
+      "1 segundo."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 193,
+    "question": "Con tiempo muy frío, la calzada puede estar helada y deslizante. ¿Qué zonas de la calzada son especialmente propensas al hielo?\n",
+    "options": [
+      "Los túneles.",
+      "Las intersecciones.",
+      "Los tramos de vía rectos con leves cambios de rasante.",
+      "Los lugares sombríos y húmedos."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 194,
+    "question": "Si al circular por una carretera Ud. se encuentra con placas de hielo en la calzada, es conveniente ...\n",
+    "options": [
+      "acelerar para salir lo más pronto posible del peligro.",
+      "no frenar ni acelerar y conducir con suavidad.",
+      "llevar el pedal de freno ligeramente presionado para que, en caso de necesidad, la frenada sea más rápida.",
+      "acelerar para evitar el patinaje."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 195,
+    "question": "En épocas de invierno, ¿Dónde es más previsible que haya hielo en la calzada?\n\nI. Sobre puentes.\nII. En tramos de vía que pasan entre bosques.\nIII. En calles con alto flujo vehicular.\n",
+    "options": [
+      "I y II",
+      "II y III",
+      "I y III",
+      "I, II y III"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 196,
+    "question": "Cuando llueve después de un largo período de tiempo seco, es probable que la calzada esté más resbalosa…\n",
+    "options": [
+      "cuando recién para la lluvia.",
+      "unas 2 horas después que para la lluvia.",
+      "después de unas 2 horas de lluvia.",
+      "unos 5 minutos después de que comienza a llover."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 197,
+    "question": "La niebla, ¿reduce la adherencia entre la calzada y los neumáticos?\n",
+    "options": [
+      "No, sólo reduce la visibilidad",
+      "Sí"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 198,
+    "question": "¿Qué ocurre con su distancia de frenado cuando hay niebla en comparación a un día de sol?\n",
+    "options": [
+      "Aumenta",
+      "Disminuye",
+      "Es igual"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 199,
+    "question": "Conducir en forma segura cuando la calzada está con hielo es:\n",
+    "options": [
+      "Más fácil, porque los vehículos van más lento.",
+      "Más fácil, porque la dirección se siente más liviana.",
+      "Más difícil, porque la calzada está resbaladiza.",
+      "Más difícil, porque la dirección se torna más pesada."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 200,
+    "question": "¿Puede ser peligroso cuando durante la noche Ud. vira desde una vía muy iluminada hacia una\ncalle oscura?\n\nI. No, porque durante la noche Ud. lleva sus luces encendidas.\nII. No, porque los ojos se adaptan rápidamente a los cambios de iluminación.\nIII. Sí, porque es más difícil ver a los peatones.\nIV. Sí, porque los ojos tardan un poco en adaptarse a la oscuridad.\n",
+    "options": [
+      "Sólo I",
+      "I y II",
+      "Sólo III",
+      "III y IV"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 201,
+    "question": "Conducir durante la noche, en relación con la posibilidad de sufrir un accidente, es:\n",
+    "options": [
+      "Más seguro, ya que la cantidad de vehículos circulando es menor y por ende disminuye el riesgo de accidente",
+      "Indistinto, ya que la posibilidad de sufrir un accidente depende sólo de la capacidad y experiencia del conductor.",
+      "Menos seguro, ya que la visibilidad se encuentra reducida y existe el riesgo de ser encandilado y/o de caer en un estado de somnolencia."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 202,
+    "question": "En relación con los camiones, ¿Qué significa el término “tara”? (Clases A-4 y A-5)\n",
+    "options": [
+      "El peso del camión con carga.",
+      "La capacidad de carga.",
+      "El peso del camión sin carga.",
+      "Ninguna de las anteriores."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 203,
+    "question": "En camiones con doble eje traccional existen dos tipos de bloqueadores para la transmisión. Un tipo bloquea entre los dos ejes y otro bloquea entre las ruedas de un mismo eje. ¿En cual no es recomendable efectuar giros? (Clases A-4 y A-5)\n",
+    "options": [
+      "En el bloqueador entre ejes.",
+      "En el bloqueador entre ruedas de un mismo eje.",
+      "En ninguno de los anteriores."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 204,
+    "question": "Una caja de cambios mecánica no sincronizada:\n",
+    "options": [
+      "Es más fácil de operar que una caja sincronizada.",
+      "Al ser operada tiene el mismo grado de dificultad que una caja sincronizada.",
+      "Requiere de mayor conocimiento y práctica de operación que una caja sincronizada."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 205,
+    "question": "En un frenado de emergencia al conducir un tractocamión con semirremolque, el principal riesgo de una mala maniobra es: (Clase A-5)\n",
+    "options": [
+      "Una articulación entre el tractor y el semirremolque, que puede golpear la cabina (efecto tijera).",
+      "Que se produzca un giro del tractor y del semirremolque, manteniéndose la línea de la combinación.",
+      "El rompimiento de la quinta rueda.",
+      "El desenganche del semirremolque."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 206,
+    "question": "Para retroceder la cola de un remolque hacia su lado izquierdo, usted debe: (Clase A-5)\n",
+    "options": [
+      "Girar las ruedas direccionales del camión hacia la derecha.",
+      "Girar las ruedas direccionales del camión hacia la izquierda.",
+      "Girar las ruedas direccionales del camión hacia cualquier lado y observar el resultado."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 207,
+    "question": "Para retroceder la cola de un semirremolque hacia su lado izquierdo, usted debe girar las ruedas direccionales del camión hacia la derecha. (Clase A-5)\n",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 208,
+    "question": "Un tercer eje de apoyo retráctil debe usarse: (Clases A-4 y A-5)\n",
+    "options": [
+      "Siempre que tiene que ingresar a una plaza de pesaje.",
+      "Sólo cuando debe ingresar con el vehículo cargado a una plaza de pesaje.",
+      "Cuando el peso de la carga supere el máximo permitido de los ejes fijos.",
+      "Siempre, ya sea que el vehículo se encuentre con o sin carga."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 209,
+    "question": "Al descender una pendiente pronunciada conduciendo un camión con remolque, Ud.: (Clase A-5)\n",
+    "options": [
+      "Baja en una marcha intermedia accionando el freno del remolque y el freno de motor.",
+      "Baja en neutro aplicando el freno de servicio y el freno de motor.",
+      "Baja en directa ayudado por el freno de servicio.",
+      "Baja enganchado en una marcha apropiada para usar el freno de motor, evitando usar el freno de servicio."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 210,
+    "question": "Suponga que usted va por la pista central de una vía en la que se encuentra la demarcación que muestra la figura. Repentinamente, siente que por atrás se acerca un vehículo de emergencia que acude a un llamado de urgencia. ¿Qué hace usted?\n",
+    "options": [
+      "Se detiene.",
+      "Abandona la pista tan pronto como sea seguro.",
+      "Sigue circulando normalmente.",
+      "Aumenta su velocidad."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 211,
+    "question": "Al ir por una vía despejada Ud. nota que la temperatura de su vehículo está subiendo más de lo normal. ¿Cuál es la causa más probable de esto?\n",
+    "options": [
+      "Bajo nivel de aceite",
+      "Las bujías se empaparon en aceite",
+      "Se rompió la correa del ventilador",
+      "El termostato se echó a perder"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 212,
+    "question": "¿Cuál es una posible causa del sobrecalentamiento del motor?\n",
+    "options": [
+      "Bajo nivel de agua en la batería.",
+      "Bajo nivel del líquido de frenos.",
+      "Batería con poca carga.",
+      "Falta de líquido refrigerante."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 213,
+    "question": "¿Cuál es una posible causa del sobrecalentamiento del motor?\n",
+    "options": [
+      "Sistema de refrigeración obstruido.",
+      "Batería con baja carga.",
+      "Insuficiente paso de agua caliente al radiador de calefacción.",
+      "Bajo nivel de agua en la batería."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 214,
+    "question": "Si sube la temperatura del motor, ello puede ser consecuencia de:\n",
+    "options": [
+      "Una falla en la bomba de agua.",
+      "Exceso de nivel de agua.",
+      "Filtro de aire tapado.",
+      "Ninguna de las anteriores."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 215,
+    "question": "¿Cómo se debe comprobar el nivel de aceite?\n",
+    "options": [
+      "Con el motor en marcha.",
+      "Con el motor parado.",
+      "Con el vehículo levemente inclinado."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 216,
+    "question": "La función del radiador es:\n",
+    "options": [
+      "Enfriar el líquido refrigerante del motor.",
+      "Regular la temperatura del aceite del motor.",
+      "Mantener un voltaje de 12 a 14 Volt en el sistema eléctrico.",
+      "Mantener la temperatura del sistema de inyección."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 217,
+    "question": "La función del turbo es:\n",
+    "options": [
+      "Enfriar el aceite del motor",
+      "Enviar una mayor cantidad de aire a los cilindros del motor para aumentar su potencia.",
+      "Controlar el sistema de inyección.",
+      "Medir las revoluciones del motor y cortar la entrega de combustible cuando éste excede el máximo de RPM."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 218,
+    "question": "¿Cuál es la función del velocímetro?\n",
+    "options": [
+      "Indicar la temperatura del motor.",
+      "Indicar la distancia recorrida.",
+      "Indicar la velocidad de circulación.",
+      "Indicar las revoluciones del motor."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 219,
+    "question": "¿Cuál es la función del tacómetro de un vehículo?\n",
+    "options": [
+      "Contabilizar los kilómetros recorridos.",
+      "Señalar la velocidad de circulación.",
+      "Señalar la temperatura del motor.",
+      "Señalar el número de revoluciones del motor."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 220,
+    "question": "En comparación con los camiones con sistema de control mecánico, los camiones con sistema de control electrónico en el motor tienen ventaja en cuanto al consumo y emisiones. ¿Es esto verdadero? (Clases A-4 y A-5)\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 221,
+    "question": "La falta de tensión de la correa del ventilador produce:\n",
+    "options": [
+      "Pérdida de potencia del motor.",
+      "Deterioro de la batería.",
+      "Recalentamiento del motor.",
+      "Desgaste de balatas o pastillas."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 222,
+    "question": "En un motor de 4 cilindros, ¿a qué se le llama cilindrada del motor?\n",
+    "options": [
+      "A la potencia del motor.",
+      "Al volumen de cada uno de los cilindros.",
+      "Al volumen de los 4 cilindros",
+      "Al volumen de los 4 cilindros dividido por 2."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 223,
+    "question": "Los anillos son ...\n",
+    "options": [
+      "Aros metálicos alojados en los pistones.",
+      "Elementos que aseguran la estanqueidad del cigüeñal.",
+      "Casquillos que evitan el desgaste de la cabeza de las bielas."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 224,
+    "question": "¿Qué puede suceder si un motor bencinero con los anillos gastados sigue funcionando? (Clase A1)\n",
+    "options": [
+      "Que el motor consumirá una excesiva cantidad de aceite.",
+      "Que el motor será capaz de producir más potencia.",
+      "Que se evitará la aparición del fenómeno de autoencendido."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 225,
+    "question": "Si el sistema de dirección de su camión no está equipado con un mecanismo servoasistido, ¿Cuándo se hace más duro y pesado el movimiento del volante? (Clases A-4 y A-5)\n",
+    "options": [
+      "Cuando el camión circula sin carga.",
+      "Cuando el peso de la carga recae más sobre el eje directriz.",
+      "Cuando el peso de la carga recae más sobre el eje motriz."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 226,
+    "question": "¿Dónde está colocada la tapa de balancines?\n",
+    "options": [
+      "Encima de la culata, protegiendo a varios elementos del sistema de distribución.",
+      "En el mecanismo de embrague, protegiendo sus elementos móviles.",
+      "En la caja de velocidades, protegiendo sus elementos móviles."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 227,
+    "question": "¿Cómo se denomina al conjunto de mecanismos que regulan la entrada y salida de los gases en los cilindros?\n",
+    "options": [
+      "Distribución.",
+      "Gasificadores.",
+      "Encendido."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 228,
+    "question": "¿Cómo se llama el conjunto de elementos que van colocados entre los ejes de las ruedas y la\ncarrocería o bastidor?\n",
+    "options": [
+      "Sistema de suspensión.",
+      "Sistema de amortiguación de doble efecto.",
+      "Sistema de adaptación del ballesteo."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 229,
+    "question": "El cigüeñal es el elemento que hace girar el árbol de levas. ¿Es esto verdadero?\n",
+    "options": [
+      "Sí.",
+      "No."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 230,
+    "question": "Si caen gotas de agua por el tubo de escape después de un arranque en frío, significa que ...\n",
+    "options": [
+      "La culata está agrietada.",
+      "La junta de culata está quemada o deteriorada.",
+      "No hay avería. Es el vapor de agua que llevan los humos, que se condensa."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 231,
+    "question": "La pieza del motor que cierra a los cilindros por la parte superior se denomina “Bloque”. ¿Es esto verdadero?\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 232,
+    "question": "¿Qué nombre recibe la pieza del motor que cierra a los cilindros por la parte superior?\n",
+    "options": [
+      "Bloque",
+      "Culata",
+      "Cigüeñal"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 233,
+    "question": "En el motor de explosión de 4 tiempos, durante la compresión el pistón va del Punto Muerto Inferior al Punto Muerto Superior. ¿Es esto verdadero?\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 234,
+    "question": "En el motor de explosión de 4 tiempos, durante la compresión el pistón va del Punto Muerto Superior al Punto Muerto Inferior. ¿Es esto verdadero?\n",
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 235,
+    "question": "Generalmente, ¿Dónde va situado el termostato en un motor?\n",
+    "options": [
+      "En el bloque motor, en la salida del líquido hacia el radiador.",
+      "En el radiador.",
+      "En el vaso de expansión no permitiendo el paso de líquido refrigerante hasta que haya alcanzado la temperatura adecuada."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 236,
+    "question": "Al reemplazarse un fusible fundido, ¿Qué debe tenerse en cuenta principalmente?\n",
+    "options": [
+      "Que el fusible nuevo sea de voltaje superior para que no se funda fácilmente.",
+      "Que el fusible nuevo tenga el mismo voltaje y amperaje que el que se ha fundido.",
+      "Que el fusible nuevo sea de un amperaje superior para que no se vuelva a fundir."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 237,
+    "question": "¿Para qué se filtra el aceite?\n",
+    "options": [
+      "Para extraerle las impurezas sólidas.",
+      "Para diluirlo mejor.",
+      "Para que dure más sin perder sus propiedades y aumentar su viscosidad."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 238,
+    "question": "Un tren delantero desalineado afecta:\n\nI. La estabilidad del vehículo\nII. El desgaste de la banda de rodamiento de los neumáticos.\nIII. La capacidad de carga del vehículo.\n",
+    "options": [
+      "Sólo I",
+      "Sólo II",
+      "I y II",
+      "I y III"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 239,
+    "question": "Una de las causas de que el motor de arranque no funcione es:\n",
+    "options": [
+      "Cables de las bujías desconectados.",
+      "Bornes de la batería sulfatados",
+      "Bobina en mal estado."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 240,
+    "question": "Uniendo una serie de 2 baterías de 12 Voltios se obtiene una tensión de ...\n",
+    "options": [
+      "6 Voltios.",
+      "12 Voltios.",
+      "24 Voltios."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 241,
+    "question": "La función del carburador es:\n",
+    "options": [
+      "Realizar la mezcla exacta del aire con el combustible.",
+      "Refinar el combustible.",
+      "Realizar la explosión en el motor."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 242,
+    "question": "¿Cómo varía el par motor con el número de revoluciones del motor?\n",
+    "options": [
+      "El valor del par no varía con el número de revoluciones.",
+      "Según crece el número de revoluciones: primero aumenta, alcanza su máximo y después disminuye.",
+      "Siempre aumenta proporcionalmente al número de revoluciones del motor."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 243,
+    "question": "¿Dónde va conectado el borne de la batería que lleva el signo menos (-)?\n",
+    "options": [
+      "A energía.",
+      "A corriente.",
+      "A tierra."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 244,
+    "question": "¿Cuál es la misión de la batería?\n",
+    "options": [
+      "Acumular la energía producida por el alternador.",
+      "Acumular el voltaje necesario para que salte la chispa.",
+      "Conseguir que el magnetismo se mantenga constante."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 245,
+    "question": "¿Qué mantención requiere, principalmente, el mecanismo de la dirección?\n",
+    "options": [
+      "Ajustar la convergencia o divergencia de las ruedas.",
+      "Verificar que las ruedas directrices permanezcan perfectamente paralelas.",
+      "Cambiar el aceite de la caja de dirección."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 246,
+    "question": "¿Qué indica el índice de carga de un neumático?\n",
+    "options": [
+      "La máxima presión a la que puede ser inflado.",
+      "La mínima presión de aire recomendada.",
+      "El peso máximo que puede soportar.",
+      "La velocidad máxima a la que puede circular."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 247,
+    "question": "Cuando en los neumáticos aparece la inscripción “TUBELESS” hay que prestar mayor atención a la presión de inflado ya que ...\n",
+    "options": [
+      "este tipo de neumáticos se puede calentar a tal punto que puede provocar un reventón.",
+      "el cinturón de estos neumáticos no permite ninguna deformación.",
+      "puede haber pérdida de aire por la unión entre la llanta y el neumático."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 248,
+    "question": "Qué indica la palabra “TUBELESS” escrita en el lateral de un neumático?\n",
+    "options": [
+      "Que es un neumático adecuado para calzadas con agua.",
+      "Que es un neumático adecuado para vehículos pesados y de gran tamaño.",
+      "Que es un neumático preparado para ser montado sin cámara.",
+      "Que es un neumático que no tiene límite de velocidad para circular."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 249,
+    "question": "En un neumático con la inscripción lateral “175/70 R 13”, ¿Qué significa el número 175?\n",
+    "options": [
+      "El diámetro interior del neumático.",
+      "El límite máximo de velocidad que puede alcanzar el neumático.",
+      "El radio exterior del neumático.",
+      "El ancho del neumático."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 250,
+    "question": "La banda de rodadura de un neumático debe tener ranuras transversales para:\n",
+    "options": [
+      "Aumentar la flexibilidad lateral del neumático.",
+      "Evacuar el agua cuando la calzada está mojada.",
+      "Mejorar el efecto amortiguador del neumático."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 251,
+    "question": "Si se observa que el borde exterior de la banda de rodadura de neumático está desgastado excesivamente, se debe:\n",
+    "options": [
+      "Corregir el ángulo de caída, ya que es excesivo.",
+      "Corregir el ángulo de caída, ya que es insuficiente.",
+      "Tener cuidado con la utilización de los frenos, porque tal desgaste es debido al continuo bloqueo de las ruedas."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 252,
+    "question": "Una presión de inflado excesiva en los neumáticos ocasiona ....\n",
+    "options": [
+      "un desgaste desigual, mayor en los costados del neumático.",
+      "un desgaste desigual, mayor en el centro de la banda de rodadura.",
+      "un perfecto desgaste."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 253,
+    "question": "Cuando las balatas se “cristalizan” o se gastan, producen:\n",
+    "options": [
+      "Frenadas bruscas.",
+      "Pérdida del líquido de frenos.",
+      "Desgaste prematuro de anillos y pistones.",
+      "Desgaste en el tambor de frenos y ruidos durante las frenadas."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 254,
+    "question": "Un retardador eléctrico de freno: (Clases A-4 y A-5)\n",
+    "options": [
+      "Reemplaza al freno de servicio.",
+      "Reemplaza al freno del remolque (bigote).",
+      "Reemplaza al freno de mano.",
+      "No reemplaza a otros sistemas, sino que es un complemento para disminuir la velocidad."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 255,
+    "question": "El freno independiente para un remolque (freno de bigote) actúa: (Clase A-5)\n",
+    "options": [
+      "Sólo en las ruedas del remolque.",
+      "Tanto en las ruedas del camión como en las del remolque.",
+      "Primero en las ruedas del tractor y luego en las del remolque.",
+      "Primero en las ruedas del remolque y luego en las del vehículo tractor."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 256,
+    "question": "En un automóvil, ¿sobre qué ruedas actúa el freno de servicio o freno de pie? (Clase A-1)\n",
+    "options": [
+      "Sobre todas",
+      "Sobre las delanteras",
+      "Sobre las traseras"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 257,
+    "question": "¿Sobre qué elemento o pieza del vehículo actúa el freno eléctrico? (Clases A-3, A-4 y A-5)\n",
+    "options": [
+      "Sobre el tambor de freno.",
+      "Sobre los discos de freno.",
+      "Sobre la transmisión."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 258,
+    "question": "¿En qué caso(s) es indispensable accionar los frenos de un auto para chequearlos? (Clase A-1)\n",
+    "options": [
+      "Después de que haya sido lavado por abajo.",
+      "Después de un largo tiempo en que haya estado guardado.",
+      "Cuando el auto ha sido recién comprado a un desconocido.",
+      "Todas las anteriores."
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 259,
+    "question": "Un camión con sistema neumático de frenado, ¿Cuántos cilindros de frenado o pulmones lleva instalados? (Clases A-4 y A-5)\n",
+    "options": [
+      "Uno para todo el sistema.",
+      "Uno por cada eje.",
+      "Uno por cada tambor de freno."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 260,
+    "question": "La función del freno de motor es:\n",
+    "options": [
+      "Detener por completo la marcha de un vehículo.",
+      "Disminuir la velocidad en pendientes, ayudando a evitar el uso del freno de servicio.",
+      "Poner resistencia al giro del cigüeñal por intermedio de balatas.",
+      "Todas las anteriores."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 261,
+    "question": "Con el motor parado, ¿Qué sucede con el sistema de frenado cuando éste está dotado de un servofreno?\n",
+    "options": [
+      "Los frenos actúan bien; da lo mismo que el motor esté funcionando o no.",
+      "No frena nada.",
+      "Frena, pero hay que presionar el pedal de freno con mucha fuerza."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 262,
+    "question": "¿En qué sistema de frenado se necesita sustituir el aceite periódicamente?\n",
+    "options": [
+      "En el retardador hidrodinámico.",
+      "En el freno motor (desacelerador) sobre el escape.",
+      "En el freno de inercia."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 263,
+    "question": "Los motores Diesel funcionan básicamente con:\n",
+    "options": [
+      "Un carburador especial.",
+      "Un carburador igual al del motor bencinero.",
+      "Inyectores"
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 264,
+    "question": "La función de la bomba inyectora en un motor Diesel es:\n",
+    "options": [
+      "Introducir combustible a presión en la cámara de combustión.",
+      "Distribuir el aceite para el sistema de lubricación.",
+      "Inyectar el agua para los sapitos y para los limpiaparabrisas."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 265,
+    "question": "En los motores Diesel, la ignición de la mezcla se produce:\n",
+    "options": [
+      "Con una bujía.",
+      "Por la sola compresión del aire.",
+      "Por la compresión del aire e inyección del petróleo."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 266,
+    "question": "La razón de compresión del motor Diesel es:\n",
+    "options": [
+      "6 : 1",
+      "8 : 1",
+      "10 : 1",
+      "16 : 1"
+    ],
+    "correct": 3
+  },
+  {
+    "originalIndex": 267,
+    "question": "En un motor Diesel, durante la carrera de compresión:\n",
+    "options": [
+      "Se comprime sólo aire.",
+      "Se comprime sólo petróleo.",
+      "Se comprime una mezcla de aire y petróleo."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 268,
+    "question": "¿Cómo se consigue la fuerza para el desplazamiento de un vehículo equipado con motor Diesel?\n",
+    "options": [
+      "Mediante la chispa que proporcionan las bujías de incandescencia.",
+      "A través de la caja de velocidades que, en las pendientes descendentes, almacena energía cinética para devolverla a las ruedas cuando el vehículo circula en plano o en subidas.",
+      "A través de la inflamación de la mezcla combustible y aire, debido a la alta temperatura existente en el interior de los cilindros."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 269,
+    "question": "En un motor Diesel las bujías de incandescencia se utilizan para:\n",
+    "options": [
+      "Hacer saltar la chispa.",
+      "Acelerar el motor.",
+      "Facilitar el arranque del motor, principalmente en frío."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 270,
+    "question": "¿Cuál de estos elementos no pertenece al circuito de baja presión del sistema de inyección Diesel?\n",
+    "options": [
+      "Bomba de alimentación.",
+      "Bomba de inyección.",
+      "Filtros de combustible."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 271,
+    "question": "¿Cómo es la relación de compresión de un motor Diesel respecto a otro de explosión?\n",
+    "options": [
+      "Mayor",
+      "Igual",
+      "Menor"
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 272,
+    "question": "De los siguientes sistemas, ¿Cuál no forma parte de un motor Diesel?\n",
+    "options": [
+      "El de distribución.",
+      "El de encendido.",
+      "El de refrigeración."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 273,
+    "question": "¿Entre qué piezas se sitúa el colector de admisión en un motor Diesel?\n",
+    "options": [
+      "Entre el filtro de aire y la válvula de admisión.",
+      "Entre la bomba inyectora y la válvula de admisión.",
+      "Entre la bomba inyectora y la tapa de balancines."
+    ],
+    "correct": 0
+  },
+  {
+    "originalIndex": 274,
+    "question": "¿Qué recorrido realiza el petróleo diesel hasta llegar a los cilindros?\n",
+    "options": [
+      "Depósito, bomba de alimentación o prealimentación, inyectores y después bomba de inyección.",
+      "Depósito, bomba de alimentación o prealimentación, bomba de inyección y después inyectores.",
+      "Depósito, bomba de inyección, bomba de alimentación o prealimentación y después inyectores."
+    ],
+    "correct": 1
+  },
+  {
+    "originalIndex": 275,
+    "question": "En un motor Diesel, ¿Qué elemento es el encargado de mover el turbocompresor?\n",
+    "options": [
+      "Generalmente un motor eléctrico.",
+      "El cigüeñal, a través de una correa dentada longitudinalmente.",
+      "Los gases del escape."
+    ],
+    "correct": 2
+  },
+  {
+    "originalIndex": 276,
+    "question": "¿Dónde va colocado el inyector en un motor Diesel?\n",
+    "options": [
+      "En el colector de admisión.",
+      "En el block.",
+      "En la culata."
+    ],
+    "correct": 2
+  }
+]
