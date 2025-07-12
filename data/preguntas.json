@@ -357,39 +357,6 @@
     "correct": 2
   },
   {
-    "originalIndex": 34,
-    "question": "¿Cuál de las siguientes afirmaciones es falsa tratándose del conductor de un bus o minibus de locomoción colectiva? (Clases A-2 y A-3)\n",
-    "options": [
-      "No le está permitido fumar en el interior del bus.",
-      "No debe permitir que alguien ejerza la mendicidad dentro del vehículo.",
-      "No puede permitir la subida de animales, aun cuando se trate de un perro de asistencia que acompañe a una persona con discapacidad.",
-      "Siempre que el vehículo esté en movimiento debe mantener sus puertas cerradas."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 35,
-    "question": "¿Cuál de las siguientes afirmaciones es falsa tratándose del conductor de un bus o minibus de locomoción colectiva? (Clases A-2 y A-3)\n",
-    "options": [
-      "No debe proveer al vehículo de combustible con pasajeros en su interior.",
-      "No debe permitir que se ejerza el comercio al interior del vehículo.",
-      "Puede fumar en el interior del vehículo si ningún pasajero se opone a ello.",
-      "No debe llevar pasajeros en las pisaderas con las puertas del vehículo cerradas cuando éste se encuentre en movimiento."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 36,
-    "question": "Suponga que usted se aproxima a una parada en la que hay personas que manifiestan su interés por subir al bus o minibus, ¿qué debe hacer usted? (Clases A-2 y A-3)\n",
-    "options": [
-      "Detenerse en la parada, a menos que se trate sólo de estudiantes.",
-      "Detenerse en la parada, junto a la acera para posibilitar la subida.",
-      "Detenerse en la parada, a menos que vaya muy atrasado y necesite recuperar tiempo.",
-      "Detenerse en la parada, siempre que ello no signifique que poco más adelante tenga que detenerse ante una luz roja."
-    ],
-    "correct": 1
-  },
-  {
     "originalIndex": 37,
     "question": "En general, los vehículos requieren de un Permiso de Circulación el que debe ser pagado anualmente a una municipalidad. Sin embargo, hay algunas excepciones. De los siguientes vehículos, ¿Cuáles están exentos de dicho pago?\n",
     "options": [
@@ -401,17 +368,6 @@
     "correct": 2
   },
   {
-    "originalIndex": 38,
-    "question": "La prestación de un servicio de transporte escolar sin que éste se encuentre inscrito en el Registro Nacional de Servicios de Transporte Remunerado de Escolares constituye una infracción a la Ley de Tránsito: (Clase A-3, transporte escolar)\n",
-    "options": [
-      "Gravísima",
-      "Grave",
-      "Menos grave",
-      "Leve"
-    ],
-    "correct": 0
-  },
-  {
     "originalIndex": 39,
     "question": "Todo vehículo que transporte carga de terceros debe justificarla con la carta de porte a que se refiere el Código de Comercio. El no portar dicho documento es sancionado: (Clases A-4 y A-5)\n",
     "options": [
@@ -419,39 +375,6 @@
       "Como una falta menos grave a las normas del tránsito.",
       "Con multa de 3 a 10 UTM, quedando obligados solidariamente al pago el conductor, el porteador y el cargador.",
       "Con multa de hasta 3 UTM, quedando obligados solidariamente al pago el conductor y el  porteador."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 40,
-    "question": "Conducir un camión con remolque, ambos de propiedad de otra persona, sin portar el certificado de inscripción del remolque en el Registro Especial de Remolques y Semirremolques constituye una infracción a la Ley de Tránsito que se sanciona con: (Clase A-5)\n",
-    "options": [
-      "Multa equivalente a una infracción leve",
-      "Multa de hasta una UTM",
-      "Multa de una a dos UTM",
-      "Multa de una UF"
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 41,
-    "question": "Conducir un camión con remolque, ambos de su propiedad, sin portar el certificado de inscripción del remolque en el Registro Especial de Remolques y Semirremolques constituye una infracción a la Ley de Tránsito que se sanciona con: (Clase A-5)\n",
-    "options": [
-      "Multa equivalente a una infracción menos grave",
-      "Multa de una a ocho UTM",
-      "Multa a una a dos UTM",
-      "Multa de una UF"
-    ],
-    "correct": 1
-  },
-  {
-    "originalIndex": 42,
-    "question": "Suponga que conduce un bus de locomoción colectiva que no cuenta con Revisión Técnica vigente y del cual usted no es el dueño. En estas circunstancias, usted: (Clases A-2 y A-3)\n",
-    "options": [
-      "No puede ser sancionado, ya que no es el propietario del vehículo.",
-      "Se arriesga a ser sancionado por una infracción grave a la Ley de Tránsito y su licencia puede ser suspendida.",
-      "Se arriesga a ser sancionado por una infracción leve a las normas de la Ley de Tránsito.",
-      "Sólo puede ser amonestado verbalmente por Carabineros."
     ],
     "correct": 2
   },
@@ -487,17 +410,6 @@
       "No, y si lo hace se arriesga a una pena de presidio menor."
     ],
     "correct": 3
-  },
-  {
-    "originalIndex": 46,
-    "question": "Usted es titular de una licencia A-2, ¿le habilita ésta para conducir un bus con más de 20 asientos? (Clases A-2 y A-3)\n",
-    "options": [
-      "No",
-      "Sí, siempre.",
-      "Sí, pero sólo dentro de una ciudad.",
-      "Sí, pero solo transportando pasajeros sentados."
-    ],
-    "correct": 0
   },
   {
     "originalIndex": 47,
@@ -542,17 +454,6 @@
       "Sí, deben contar con un seguro obligatorio adicional."
     ],
     "correct": 3
-  },
-  {
-    "originalIndex": 51,
-    "question": "En relación con el Seguro Obligatorio de Accidentes Personales, cuando no se ha contratado el seguro adicional de un remolque ¿Quién o quiénes responden por los daños que eventualmente  puedan causarse? (Clase A-5)\n",
-    "options": [
-      "Sólo el conductor",
-      "Sólo el propietario del remolque.",
-      "El propietario y el conductor del vehículo tractor responden solidariamente.",
-      "Sólo el propietario del vehículo tractor."
-    ],
-    "correct": 2
   },
   {
     "originalIndex": 52,
@@ -648,17 +549,6 @@
     "correct": 0
   },
   {
-    "originalIndex": 61,
-    "question": "Suponga que usted conduce un taxi cuyo año de fabricación es 2002 o posterior, y que un pasajero que viaja en el asiento trasero no se ha abrochado el cinturón de seguridad. ¿Sobre quién recae la responsabilidad por no usar dicho elemento?. (Clase A-1)\n",
-    "options": [
-      "Siempre sobre el conductor del taxi.",
-      "Sobre el pasajero, a menos que el cinturón no funcione.",
-      "Siempre sobre el pasajero.",
-      "Nadie es responsable porque el uso del cinturón de seguridad es obligatorio sólo en los asientos delanteros."
-    ],
-    "correct": 1
-  },
-  {
     "originalIndex": 62,
     "question": "Infringir las normas sobre uso obligatorio de cinturón de seguridad es:\n",
     "options": [
@@ -668,114 +558,6 @@
       "Sólo una falta leve."
     ],
     "correct": 0
-  },
-  {
-    "originalIndex": 63,
-    "question": "Tratándose de un vehículo de transporte remunerado de escolares de peso bruto vehicular inferior a 3.860 kg, ¿Cuál de las siguientes exigencias no le es aplicable? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "Debe estar pintado de color amarillo.",
-      "Sus asientos deben estar dispuestos de manera que sus ocupantes viajen mirando hacia el frente.",
-      "Deben contar con aire acondicionado.",
-      "Deben contar con un extintor de incendio cuyo potencial de extinción sea 2A - 5B, C."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 64,
-    "question": "Tratándose de un vehículo de transporte remunerado de escolares de peso bruto vehicular superior a 3.860 kg, ¿cuál de las siguientes exigencias no le es aplicable? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "Debe tener una antigüedad menor a 10 años.",
-      "Sus asientos deben estar dispuestos de manera que sus ocupantes viajen mirando hacia el frente.",
-      "Debe contar con un extintor de incendio cuyo potencial de extinción sea 2A - 10B, C.",
-      "Debe estar cubierto por el Seguro Obligatorio de Accidentes Personales (SOAP)."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 65,
-    "question": "Tratándose de servicio de transporte remunerado de escolares dentro de una ciudad, el transporte desde la casa o domicilio de un niño y el colegio no puede tardar más de: (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "90 minutos",
-      "80 minutos",
-      "70 minutos",
-      "60 minutos"
-    ],
-    "correct": 3
-  },
-  {
-    "originalIndex": 66,
-    "question": "Tratándose de un vehículo de transporte remunerado de escolares, ¿constituye el uso de cintas retrorreflectantes amarillas en sus costados y parte trasera una alternativa a la luz de seguridad estroboscópica? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "Sí",
-      "No"
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 67,
-    "question": "¿Qué vehículos de transporte remunerado de escolares no requieren portar sobre el techo una luz de seguridad estroboscópica? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "Los que están pintados de color amarillo.",
-      "Los que cuentan con cintas retrorreflectantes rojas y blancas en sus costados y parte trasera.",
-      "Los que exhiben avisos publicitarios en sus costados.",
-      "Los de peso bruto total igual o superior a 3.860 kg."
-    ],
-    "correct": 3
-  },
-  {
-    "originalIndex": 68,
-    "question": "¿Qué vehículos de transporte remunerado de escolares no requieren portar sobre el techo una luz de seguridad estroboscópica? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "Los que son de una antigüedad inferior a 5 años.",
-      "Los que cuentan con cintas retrorreflectantes de color amarillo bajo sus ventanas, en sus costados y parte trasera.",
-      "Los que prestan servicio sólo en ciudades muy pequeñas.",
-      "Todos los vehículos de transporte escolar, sin excepción, deben contar con la luz estroboscópica sobre el techo."
-    ],
-    "correct": 1
-  },
-  {
-    "originalIndex": 69,
-    "question": "¿Qué información debe encontrarse siempre visible en el interior de un vehículo que presta servicio de transporte remunerado de escolares? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "La identificación del conductor y la dirección de la Seremitt correspondiente.",
-      "La patente única del vehículo y la identificación del propietario del vehículo.",
-      "La identificación del conductor y la capacidad del vehículo.",
-      "Sólo la cantidad máxima de niños que pueden ser transportados."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 70,
-    "question": "Tratándose de un servicio de transporte remunerado de escolares, ¿Qué debe entenderse por “escolares”? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "Sólo niños y niñas de primero y hasta octavo año de Enseñanza Básica.",
-      "Sólo niños y niñas de guarderías infantiles, de kindergarten y de Enseñanza Básica de hasta 14 años de edad.",
-      "Niños y niñas de guarderías infantiles, de parvularios o de hasta cuarto año de Enseñanza Media.",
-      "Niños y niñas de Enseñanza Básica y Media, y jóvenes de Educación Superior."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 71,
-    "question": "En qué circunstancia puede usted transportar una cantidad de niños superior a la señalada en el Certificado de Revisión Técnica de su vehículo? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "Cuando una mamá le solicita un favor especial.",
-      "Cuando está lloviendo y hace frío.",
-      "Cuando se trata de un viaje muy corto.",
-      "Nunca."
-    ],
-    "correct": 3
-  },
-  {
-    "originalIndex": 72,
-    "question": "¿Cuándo es necesario que el conductor sea acompañado por un adulto que cuide a los menores? (Clase A-3, Transporte de Escolares)\n",
-    "options": [
-      "Cuando transporta a lo menos un niño o niña de nivel prebásico.",
-      "Cuando transporta más de 5 niños o niñas de nivel prebásico.",
-      "Cuando el tiempo que algunos niños o niñas permanecen en el vehículo es excesivo.",
-      "Nunca."
-    ],
-    "correct": 1
   },
   {
     "originalIndex": 73,
@@ -789,17 +571,6 @@
     "correct": 0
   },
   {
-    "originalIndex": 74,
-    "question": "¿Cuál es el alto máximo, con o sin carga, de un vehículo que transporta automóviles? (Clase A-5)\n",
-    "options": [
-      "4,20 metros",
-      "4,30 metros",
-      "4,50 metros",
-      "4,60 metros"
-    ],
-    "correct": 1
-  },
-  {
     "originalIndex": 75,
     "question": "¿Cuál es el alto máximo que puede tener un vehículo, con o sin carga, sin considerar a aquellos que transportan automóviles? (Clases A-4 y A-5)\n",
     "options": [
@@ -807,281 +578,6 @@
       "4,10 metros",
       "4,20 metros",
       "4,30 metros"
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 76,
-    "question": "¿Qué estudiantes tienen derecho a utilizar los servicios públicos de locomoción colectiva en forma\ngratuita sin exhibir el Pase Escolar? (Clases A-2 y A-3)\n",
-    "options": [
-      "Los que cursan de 1º a 4º año de Educación Básica.",
-      "Sólo los que cursan de 1º a 6º año de Educación Básica en establecimientos municipales.",
-      "Los que cursan hasta 8º año de Enseñanza Básica.",
-      "Los que tienen hasta 7 años de edad."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 77,
-    "question": "¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)? (Clases A-2 y A-3)\n\nI. El Pase Escolar puede ser utilizado el día domingo sólo por estudiantes de Escuelas Agrícolas\nII. El Pase Escolar rige de lunes a domingo las 24 horas del día durante todo el año escolar\nIII. El Pase Escolar puede ser usado en meses de verano, por alumnos de educación técnico profesional que realizan práctica profesional.\n",
-    "options": [
-      "Sólo I",
-      "Sólo III",
-      "II y III",
-      "I y III"
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 78,
-    "question": "¿Está permitido el uso de neumáticos redibujados en los servicios de locomoción colectiva y de taxis? (Clases A-1, A-2 y A-3)\n",
-    "options": [
-      "Sí",
-      "Sí, pero sólo en el eje trasero",
-      "Sí, pero sólo en el eje delantero",
-      "No, no está permitido."
-    ],
-    "correct": 3
-  },
-  {
-    "originalIndex": 79,
-    "question": "Los neumáticos de los vehículos de locomoción colectiva y de los taxis deben tener una banda de rodamiento cuyo dibujo tenga al menos las siguientes profundidades: (Clases A-1, A-2 y A-3)\n",
-    "options": [
-      "Buses y minibuses: 1,8 mm; taxis: 1, 5 mm.",
-      "Buses: 1,8 mm; minibuses y taxis: 1,6 mm.",
-      "Buses y minibuses: 2,0 mm; taxis: 1,6 mm.",
-      "Buses: 2,0 mm; minibuses y taxis: 1,6 mm."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 80,
-    "question": "¿Cuál de los siguientes requisitos no es aplicable al extintor de incendio que deben llevar los taxis? (Clase A-1)\n",
-    "options": [
-      "Tener como agente extintor polvo químico seco.",
-      "Tener como mínimo un potencial de extinción 1A - 2B.",
-      "Estar dotado de manómetro.",
-      "Tener una etiqueta que señale la fecha en que fue adquirido."
-    ],
-    "correct": 3
-  },
-  {
-    "originalIndex": 81,
-    "question": "En los buses de servicios rurales e interurbanos de transporte público de pasajeros deben portarse dos extintores 2A -10B, C ó un extintor 4A - 10B, C. ¿Es esto verdadero? (Clases A-2 y A-3)\n",
-    "options": [
-      "Sí, siempre.",
-      "Sí, pero sólo en viajes de más de 500 km.",
-      "Sí, pero sólo en viajes nocturnos.",
-      "No."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 82,
-    "question": "En los minibuses que prestan servicio de transporte público de pasajeros debe portarse un extintor con, a lo menos, un potencial de extinción 2A -5B, C. ¿Es esto verdadero? (Clases A-2 y A-3)\n",
-    "options": [
-      "No",
-      "Sí",
-      "Sí, a menos que tengan una antigüedad inferior a 5 años.",
-      "Sí, pero sólo si el vehículo presta servicio urbano."
-    ],
-    "correct": 1
-  },
-  {
-    "originalIndex": 83,
-    "question": "En un servicio de locomoción colectiva rural de 30 km de longitud prestado con buses, ¿pueden transportarse pasajeros de pie? (Clases A-2 y A-3)\n",
-    "options": [
-      "Sí.",
-      "Sí, pero siempre que el Seremitt de Transportes lo haya autorizado.",
-      "Sí, pero sólo hasta 5 personas.",
-      "No."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 84,
-    "question": "¿Cómo se define un servicio de transporte interurbano de pasajeros? (Clases A-1, A-2 y A-3)\n",
-    "options": [
-      "Aquellos cuyo recorrido excede de 100 km",
-      "Aquellos cuyo recorrido excede de 200 km o que sin exceder los 200 km se realizan entre Santiago y localidades o ciudades ubicadas fuera de la Región Metropolitana.",
-      "Aquellos que se realizan entre ciudades de regiones distintas.",
-      "Aquellos que se realizan entre ciudades de más de 50.000 habitantes."
-    ],
-    "correct": 1
-  },
-  {
-    "originalIndex": 85,
-    "question": "¿Cómo se define un servicio de transporte rural de pasajeros? (Clases A-1, A-2 y A-3)\n",
-    "options": [
-      "Aquellos que se realizan al interior de una región.",
-      "Aquellos cuyo recorrido excede de 200 km.",
-      "Aquellos cuyo recorrido excede el radio urbano de una ciudad sin superar, en general, los 200 km de longitud, salvo el caso de Región Metropolitana.",
-      "Aquellos que se realizan entre pueblos o ciudades de menos de 50.000 habitantes."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 86,
-    "question": "¿Cuál de las siguientes características distingue a un servicio de transporte de pasajeros privado de uno público? (Clases A-1, A-2 y A-3)\n",
-    "options": [
-      "Está disponible para cualquier persona que lo requiera en una parada de buses.",
-      "Se presta sólo con vehículos de menos de 5 años de antigüedad.",
-      "Se presta en la medida que exista un contrato de transporte previo entre el prestador del servicio y los pasajeros.",
-      "Se presta sólo con minibuses."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 87,
-    "question": "¿Cuál es el decreto del Ministerio de Transportes y Telecomunicaciones que establece la normativa para la prestación de los servicios nacionales de transporte público de pasajeros? (Clases A-1, A-2 y A-3)\n",
-    "options": [
-      "El Decreto Supremo Nº 212 del año 1992",
-      "El Decreto Supremo Nº 83 del año 1985",
-      "El Decreto Supremo Nº 63 del año 1984",
-      "El Decreto Supremo Nº 75 del año 1999"
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 88,
-    "question": "En el transporte privado remunerado de pasajeros en buses y minibuses, ¿debe cumplirse con normas específicas? (Clases A-2 y A-3)\n",
-    "options": [
-      "No, salvo en el caso del transporte escolar",
-      "No",
-      "Sí",
-      "Sí, pero sólo tratándose de buses y de viajes interregionales."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 89,
-    "question": "La ley 19.040 establece que la prestación de servicios con vehículos impedidos de hacerlo puede ser sancionada con una multa de hasta 10 UTM. ¿En cuál de los siguientes casos no procedería tal sanción? (Clases A-1, A-2 y A-3)\n",
-    "options": [
-      "Si el vehículo presta un servicio de transporte público no estando inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros.",
-      "Si el vehículo presta servicio de transporte público de pasajeros en una modalidad distinta a aquella para la cual está inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros.",
-      "Si el vehículo presta servicio de transporte público de pasajeros teniendo una antigüedad superior a la máxima permitida.",
-      "Si el vehículo no tiene revisión técnica vigente."
-    ],
-    "correct": 3
-  },
-  {
-    "originalIndex": 90,
-    "question": "En un servicio de locomoción colectiva rural, ¿puede hacerse funcionar la radio del vehículo? (Clases A-2 y A-3)\n",
-    "options": [
-      "No",
-      "Sí, pero sólo en viajes largos",
-      "Sí, siempre que el vehículo sea tipo pullman.",
-      "Sí, siempre que el volumen sea moderado y ningún pasajero se oponga."
-    ],
-    "correct": 3
-  },
-  {
-    "originalIndex": 91,
-    "question": "En los servicios interurbanos de transporte público de pasajeros, ¿Cuándo debe confeccionarse un listado con la nómina de pasajeros? (Clases A-2 y A-3)\n",
-    "options": [
-      "Cuando el largo del recorrido es superior a 200 kilómetros.",
-      "Cuando el servicio abarca 2 o más regiones.",
-      "Cuando el recorrido dura más de 5 horas.",
-      "Cuando el recorrido dura más de 6 horas."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 92,
-    "question": "Un taxi que está inscrito en el Registro de Servicios de Transporte de Pasajeros en una región distinta de la metropolitana, ¿puede estar en servicio si su antigüedad es de 18 años? (Clase A-1), (Regiones distintas de la RM))\n",
-    "options": [
-      "Sí, pero sólo en la región donde está inscrito",
-      "Sí, pero requiere de revisiones técnicas más frecuentes",
-      "Sí, cuando su cilindrada es superior a 1.8 litros",
-      "No"
-    ],
-    "correct": 3
-  },
-  {
-    "originalIndex": 93,
-    "question": "Un taxi que está inscrito en el Registro de Servicios de Transporte de Pasajeros en una región distinta de la metropolitana, ¿puede prestar servicio si su antigüedad es de más de 12 años? (Clase A-1), (Regiones distintas de la RM) )\n",
-    "options": [
-      "Sí, en la medida que aprueben una revisión técnica cada 4 meses y la antigüedad no sea de más de 15 años.",
-      "Sí, en la medida que aprueben 2 revisiones técnicas anuales.",
-      "Sí, pero sólo servicio de taxi básico.",
-      "Sí, pero sólo en la modalidad de turismo"
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 94,
-    "question": "¿Cuál es la antigüedad máxima que puede tener un taxi para que pueda prestar servicio como taxi básico en la Región Metropolitana? (Clase A-1), (Región Metropolitana)\n",
-    "options": [
-      "8 años",
-      "10 años",
-      "12 años",
-      "14 años"
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 95,
-    "question": "¿Qué servicio de taxi no requiere estar inscrito en el Registro Nacional de Transporte de\nPasajeros? (Clase A-1)\n",
-    "options": [
-      "Los que están adscritos a servicios de carácter internacional.",
-      "Los taxis colectivos de menos de 3 años de antigüedad",
-      "Los taxis de turismo",
-      "Los taxis ejecutivos"
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 96,
-    "question": "Los taxis que usan taxímetro como mecanismo de cobro tarifario deben exhibir en el parabrisas delantero, el valor de: (Clase A-1)\n",
-    "options": [
-      "Los primeros 100 m de recorrido y el monto a cobrar por cada 200 m de recorrido adicional.",
-      "Los primeros 200 m de recorrido y el monto a cobrar por cada 200 m de recorrido adicional y por cada 60 segundos de espera.",
-      "Los primeros 200 m de recorrido y el monto a cobrar por cada 100 m de recorrido adicional y por cada 60 segundos de espera.",
-      "Los primeros 200 m de recorrido y el monto a cobrar por cada 2 minutos adicionales."
-    ],
-    "correct": 1
-  },
-  {
-    "originalIndex": 97,
-    "question": "Cuando corresponde el uso de taxímetro, ¿Dónde debe ir éste ubicado? (Clase A-1)\n",
-    "options": [
-      "Sobre la guantera",
-      "Bajo la guantera",
-      "En el centro de la parte delantera a la altura del panel de instrumentos o apoyado sobre éste, o fijado al techo.",
-      "En la parte delantera interior del vehículo a la altura del panel de instrumentos, detrás del volante."
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 98,
-    "question": "¿Cuál de las siguientes situaciones no constituye causal de comiso del taxímetro? (Clase A-1)\n",
-    "options": [
-      "Cuando se encuentra ubicado en un lugar no reglamentario.",
-      "Cuando su mecanismo ha sido alterado de modo que arroje valores superiores a la tarifa anunciada.",
-      "Cuando presenta violado el sello colocado por la autoridad.",
-      "Cuando su funcionamiento ha sido alterado mediante una modificación de las características del vehículo, entregando valores superiores a la tarifa anunciada."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 99,
-    "question": "¿Puede un conductor de taxi en servicio viajar acompañado de alguien que no sea un pasajero que haya solicitado su transporte? (Clase A-1)\n",
-    "options": [
-      "Sí, cuando sólo es por algunas cuadras.",
-      "No, ello está expresamente prohibido.",
-      "Sí, cuando la persona que lo acompaña es un familiar.",
-      "Sí, siempre que el acompañante no moleste a los demás pasajeros."
-    ],
-    "correct": 1
-  },
-  {
-    "originalIndex": 100,
-    "question": "Como máximo, ¿Cuántas personas pueden viajar en un taxi? (Clase A-1)\n",
-    "options": [
-      "4, incluido el conductor.",
-      "Todas las que quepan.",
-      "La indicada en un letrero que debe existir en un lugar visible en el interior del vehículo.",
-      "Depende de la contextura de los pasajeros."
     ],
     "correct": 2
   },
@@ -1227,28 +723,6 @@
       "Los que transportan cilindros de gas licuado de petróleo a los domicilios."
     ],
     "correct": 3
-  },
-  {
-    "originalIndex": 114,
-    "question": "¿Cuánto es el peso total máximo que puede tener una combinación de camión con remolque? (Clase A-5)\n",
-    "options": [
-      "30 toneladas",
-      "40 toneladas",
-      "45 toneladas",
-      "50 toneladas"
-    ],
-    "correct": 2
-  },
-  {
-    "originalIndex": 115,
-    "question": "¿Cuánto es el peso máximo de una combinación camión con semi-remolque, con eje posterior triple? (Clase A-5)\n",
-    "options": [
-      "40 toneladas",
-      "45 toneladas",
-      "50 toneladas",
-      "55 toneladas"
-    ],
-    "correct": 1
   },
   {
     "originalIndex": 116,
@@ -1787,27 +1261,6 @@
     "correct": 2
   },
   {
-    "originalIndex": 165,
-    "question": "¿Cómo puede Ud. notar una fuga del líquido de frenos? (Clase A-1)\n",
-    "options": [
-      "Porque el pedal de freno llega casi hasta el fondo.",
-      "Porque el pedal de freno tiene poco recorrido.",
-      "Porque el pedal de freno está muy duro."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 166,
-    "question": "¿Cuáles de las siguientes afirmaciones son verdaderas al echar gasolina a su vehículo? (Clase A-1)\n\nI. Ud. debe evitar la inhalación de vapores de la gasolina.\nII. Ud. no debe echar gasolina cuando el motor esta funcionando.\nIII. Ud. debe tratar siempre de llenar el estanque al máximo.\n",
-    "options": [
-      "Sólo I",
-      "I y II",
-      "I y III",
-      "Sólo III"
-    ],
-    "correct": 1
-  },
-  {
     "originalIndex": 167,
     "question": "Si los espejos de su vehículo están bien regulados Ud. no tendrá “ángulo muerto” o espacio sin\nvisión. ¿Es esto verdadero?\n",
     "options": [
@@ -1936,16 +1389,6 @@
       "Todas las anteriores."
     ],
     "correct": 3
-  },
-  {
-    "originalIndex": 179,
-    "question": "¿Cómo se debe cargar un vehículo compuesto por tractocamión y semirremolque? (Clase A-5)\n",
-    "options": [
-      "Colocando mucho más peso sobre el tractor para tener mejor adherencia al traccionar.",
-      "Colocando mucho más peso en los ejes del semirremolque.",
-      "Cuidando de cargar de forma uniforme en todos los ejes del equipo completo."
-    ],
-    "correct": 2
   },
   {
     "originalIndex": 180,
@@ -2216,36 +1659,6 @@
     "correct": 2
   },
   {
-    "originalIndex": 205,
-    "question": "En un frenado de emergencia al conducir un tractocamión con semirremolque, el principal riesgo de una mala maniobra es: (Clase A-5)\n",
-    "options": [
-      "Una articulación entre el tractor y el semirremolque, que puede golpear la cabina (efecto tijera).",
-      "Que se produzca un giro del tractor y del semirremolque, manteniéndose la línea de la combinación.",
-      "El rompimiento de la quinta rueda.",
-      "El desenganche del semirremolque."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 206,
-    "question": "Para retroceder la cola de un remolque hacia su lado izquierdo, usted debe: (Clase A-5)\n",
-    "options": [
-      "Girar las ruedas direccionales del camión hacia la derecha.",
-      "Girar las ruedas direccionales del camión hacia la izquierda.",
-      "Girar las ruedas direccionales del camión hacia cualquier lado y observar el resultado."
-    ],
-    "correct": 1
-  },
-  {
-    "originalIndex": 207,
-    "question": "Para retroceder la cola de un semirremolque hacia su lado izquierdo, usted debe girar las ruedas direccionales del camión hacia la derecha. (Clase A-5)\n",
-    "options": [
-      "Verdadero",
-      "Falso"
-    ],
-    "correct": 0
-  },
-  {
     "originalIndex": 208,
     "question": "Un tercer eje de apoyo retráctil debe usarse: (Clases A-4 y A-5)\n",
     "options": [
@@ -2255,17 +1668,6 @@
       "Siempre, ya sea que el vehículo se encuentre con o sin carga."
     ],
     "correct": 2
-  },
-  {
-    "originalIndex": 209,
-    "question": "Al descender una pendiente pronunciada conduciendo un camión con remolque, Ud.: (Clase A-5)\n",
-    "options": [
-      "Baja en una marcha intermedia accionando el freno del remolque y el freno de motor.",
-      "Baja en neutro aplicando el freno de servicio y el freno de motor.",
-      "Baja en directa ayudado por el freno de servicio.",
-      "Baja enganchado en una marcha apropiada para usar el freno de motor, evitando usar el freno de servicio."
-    ],
-    "correct": 3
   },
   {
     "originalIndex": 210,
@@ -2730,27 +2132,6 @@
     "correct": 3
   },
   {
-    "originalIndex": 255,
-    "question": "El freno independiente para un remolque (freno de bigote) actúa: (Clase A-5)\n",
-    "options": [
-      "Sólo en las ruedas del remolque.",
-      "Tanto en las ruedas del camión como en las del remolque.",
-      "Primero en las ruedas del tractor y luego en las del remolque.",
-      "Primero en las ruedas del remolque y luego en las del vehículo tractor."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 256,
-    "question": "En un automóvil, ¿sobre qué ruedas actúa el freno de servicio o freno de pie? (Clase A-1)\n",
-    "options": [
-      "Sobre todas",
-      "Sobre las delanteras",
-      "Sobre las traseras"
-    ],
-    "correct": 0
-  },
-  {
     "originalIndex": 257,
     "question": "¿Sobre qué elemento o pieza del vehículo actúa el freno eléctrico? (Clases A-3, A-4 y A-5)\n",
     "options": [
@@ -2759,17 +2140,6 @@
       "Sobre la transmisión."
     ],
     "correct": 2
-  },
-  {
-    "originalIndex": 258,
-    "question": "¿En qué caso(s) es indispensable accionar los frenos de un auto para chequearlos? (Clase A-1)\n",
-    "options": [
-      "Después de que haya sido lavado por abajo.",
-      "Después de un largo tiempo en que haya estado guardado.",
-      "Cuando el auto ha sido recién comprado a un desconocido.",
-      "Todas las anteriores."
-    ],
-    "correct": 3
   },
   {
     "originalIndex": 259,
