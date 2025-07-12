@@ -63,7 +63,7 @@ function revisar() {
   });
 
   const resultadoTexto = `Resultado: ${correctas} / 20 correctas`;
-  const aprobado = correctas >= 17 ? '✅ Aprobado' : '❌ No aprobado';
+  const aprobado = correctas >= 18 ? '✅ Aprobado' : '❌ No aprobado';
 
   document.getElementById('resultado').innerHTML = `
     <p>${resultadoTexto}</p>
@@ -87,10 +87,11 @@ function iniciarTemporizador() {
   temporizador = setInterval(() => {
     tiempoRestante--;
     actualizarTemporizador();
-    if (tiempoRestante <= 0) {
-      clearInterval(temporizador);
-      revisar();
-    }
+  if (tiempoRestante <= 0) {
+  clearInterval(temporizador);
+  revisar();
+  document.getElementById('resultado').insertAdjacentHTML('afterbegin', '<p><strong>⏱️ Se acabó el tiempo</strong></p>');
+  }
   }, 1000);
 }
 
