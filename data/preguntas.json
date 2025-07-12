@@ -538,17 +538,6 @@
     "correct": 3
   },
   {
-    "originalIndex": 60,
-    "question": "En un automóvil está prohibido que en los asientos delanteros viajen niños menores de: (Clase A1)\n",
-    "options": [
-      "8 años",
-      "10 años",
-      "12 años",
-      "No, no hay prohibiciones al respecto."
-    ],
-    "correct": 0
-  },
-  {
     "originalIndex": 62,
     "question": "Infringir las normas sobre uso obligatorio de cinturón de seguridad es:\n",
     "options": [
@@ -1816,16 +1805,6 @@
       "Aros metálicos alojados en los pistones.",
       "Elementos que aseguran la estanqueidad del cigüeñal.",
       "Casquillos que evitan el desgaste de la cabeza de las bielas."
-    ],
-    "correct": 0
-  },
-  {
-    "originalIndex": 224,
-    "question": "¿Qué puede suceder si un motor bencinero con los anillos gastados sigue funcionando? (Clase A1)\n",
-    "options": [
-      "Que el motor consumirá una excesiva cantidad de aceite.",
-      "Que el motor será capaz de producir más potencia.",
-      "Que se evitará la aparición del fenómeno de autoencendido."
     ],
     "correct": 0
   },
